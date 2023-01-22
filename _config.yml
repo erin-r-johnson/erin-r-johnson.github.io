@@ -1,0 +1,67 @@
+# Theme settings
+theme: minimal
+
+# Site Settings: {{ site.blah }}
+locale: "en-US"
+timezone: "Canada/Halifax"
+title: "Johnson Group Webpage"
+title_separator: "|"
+name: "Erin R. Johnson"
+email: "erin.johnson@dal.ca"
+description: >-
+  This is the website for the Johnson research group. We are located in the
+  Department of Chemistry at Dalhousie University, in Halifax, Canada. Our
+  research area is development and application of density-functional theory,
+  with a focus on London dispersion and molecular crystal structure prediction.
+baseurl: ""
+url: "https://erin-r-johnson.github.io"
+repository: "erin-r-johnson/erin-r-johnson.github.io"
+github_username: "erin-r-johnson"
+breadcrumbs: true
+
+# Searches
+search: true
+search_full_content: true
+
+# Markdown and plugins
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: "\n\n"
+plugins:
+  - jekyll-include-cache
+  - jemoji
+  - jekyll-gist
+  - jekyll-sitemap
+
+# Process math
+head_scripts:
+  - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+# Excludes and includes
+exclude:
+  - LICENSE
+include:
+  - _publications/
+  - _group/
+
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      classes: wide
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
