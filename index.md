@@ -31,14 +31,14 @@ row_all:
     btn_class: "btn--light-outline"
 ---
 
-  This is the website for the Johnson research group. We are located in the
+  This is the website for Erin R. Johnson's research group. We are located in the
   Department of Chemistry at Dalhousie University, in Halifax, Canada. Our
   research area is development and application of density-functional theory,
   with a focus on London dispersion and molecular crystal structure prediction.
 
   Some useful links:
-  * Department of Chemistry
-  * Department of Physics and Atmospheric Science
-  * Erin's Google Scholar Page
-  * Erin's Academic Tree
+  * [Department of Chemistry](https://chem.dal.ca)
+  * [Department of Physics and Atmospheric Science](https://physics.dal.ca)
+  * [Erin's Google Scholar Page](https://scholar.google.ca/citations?user=57ER3oQAAAAJ&hl=en)
+  * [Erin's Academic Tree](https://academictree.org/chemistry/tree.php?pid=796420)
 
