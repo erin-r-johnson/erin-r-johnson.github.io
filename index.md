@@ -42,3 +42,6 @@ row_all:
   * [Erin's Google Scholar Page](https://scholar.google.ca/citations?user=57ER3oQAAAAJ&hl=en)
   * [Erin's Academic Tree](https://academictree.org/chemistry/tree.php?pid=796420)
 
+{% include feature_row_local id="intro" type="center" %}
+
+{% include feature_row_local id="row_all" %}
