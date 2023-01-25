@@ -7,8 +7,6 @@ excerpt: >-
 search: true
 ---
 
-images/cover.pdf
-
 2023
 * A. J. A. Price, R. A. Mayo, A. Otero de la Roza, and E. R. Johnson,
 Accurate and efficient polymorph energy ranking with XDM-corrected hybrid DFT.

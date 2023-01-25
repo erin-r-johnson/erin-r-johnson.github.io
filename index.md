@@ -34,7 +34,7 @@ row_all:
     title: "Course Notes"
     excerpt: >-
       PDF notes for selected courses offered at Dalhousie.
-    url: /pubs/
+    url: /notes/
     btn_label: "_"
     btn_class: "btn--light-outline"
   - image_path: images/kevan.png
@@ -42,13 +42,13 @@ row_all:
     title: "Software"
     excerpt: >-
       Links to github pages for software developed by past and present group members: critic2, postg, and more.
-    url: /pubs/
+    url: /software/
     btn_label: "_"
     btn_class: "btn--light-outline"
   - title: "Contact"
+    image_path: images/dal-crest.png
     excerpt: >-
       Contact information for Erin, along with some other useful links.
-    image_path: images/dal-crest.png
     alt: "Contact"
     url: /contact/
     btn_label: "_"
