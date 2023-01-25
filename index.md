@@ -29,6 +29,22 @@ row_all:
     url: /pubs/
     btn_label: "_"
     btn_class: "btn--light-outline"
+  - image_path: images/harmonic.pdf
+    alt: "Course Notes"
+    title: "Course Notes"
+    excerpt: >-
+      PDF notes for selected courses offered at Dalhousie.
+    url: /pubs/
+    btn_label: "_"
+    btn_class: "btn--light-outline"
+  - image_path: images/kevan.png
+    alt: "Software"
+    title: "Software"
+    excerpt: >-
+      Links to github pages for software developed by past and present group members: critic2, postg, and more.
+    url: /pubs/
+    btn_label: "_"
+    btn_class: "btn--light-outline"
 ---
 
   This is the website for Erin R. Johnson's research group. We are located in the
