@@ -21,7 +21,7 @@ row_all:
     url: /group/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: images/cover.pdf
+  - image_path: images/cover.png
     alt: "Publications"
     title: "Publications"
     excerpt: >-
@@ -29,7 +29,7 @@ row_all:
     url: /pubs/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: images/harmonic.pdf
+  - image_path: images/harmonic.png
     alt: "Course Notes"
     title: "Course Notes"
     excerpt: >-
@@ -45,11 +45,11 @@ row_all:
     url: /pubs/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: images/dal.png
-    alt: "Contact"
-    title: "Contact"
+  - title: "Contact"
     excerpt: >-
       Contact information for Erin, along with some other useful links.
+    image_path: images/dal.png
+    alt: "Contact"
     url: /contact/
     btn_label: "_"
     btn_class: "btn--light-outline"
@@ -60,11 +60,6 @@ row_all:
   research area is development and application of density-functional theory,
   with a focus on London dispersion and molecular crystal structure prediction.
 
-  Some useful links:
-  * [Department of Chemistry](https://chem.dal.ca)
-  * [Department of Physics and Atmospheric Science](https://physics.dal.ca)
-  * [Erin's Google Scholar Page](https://scholar.google.ca/citations?user=57ER3oQAAAAJ&hl=en)
-  * [Erin's Academic Tree](https://academictree.org/chemistry/tree.php?pid=796420)
 
 {% include feature_row_local id="intro" type="center" %}
 

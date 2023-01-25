@@ -42,9 +42,26 @@ head_scripts:
 exclude:
   - LICENSE
 include:
+  - _news/
   - _publications/
   - _group/
+  - _coursenotes/
+  - _software/
+  - _contact/
 
+collections:
+  news:
+    output: true
+  publications:
+    output: true
+  group:
+    output: true
+  coursenotes:
+    output: true
+  software:
+    output: true
+  contact:
+    output: true
 
 # Defaults
 defaults:
