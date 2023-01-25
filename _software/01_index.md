@@ -7,9 +7,7 @@ excerpt: >-
 search: true
 ---
 
-[**critic2**](https://aoterodelaroza.github.io/critic2/)
-
-Our "swiss army" software tool. Use this for:
+[**critic2**](https://aoterodelaroza.github.io/critic2/) -- Our "swiss army" software tool. Use this for:
 * converting between file formats and writing input for electronic structure codes starting from molecular or crystal geometries (.cif, .res, .xyz)
 * extracting single molecules, dimers, trimers, etc. from a crystal structure
 * comparing crystal structures with each other, and with experimental PXRD patterns
@@ -18,23 +16,15 @@ Our "swiss army" software tool. Use this for:
 * much more
 
 
-[**postg**](https://github.com/aoterodelaroza/postg)
-
-Allows use of the XDM dispersion model with the Gaussian quantum-chemistry package.
+[**postg**](https://github.com/aoterodelaroza/postg) -- Allows use of the XDM dispersion model with the Gaussian quantum-chemistry package.
 
 
-[**nciplot**](https://github.com/aoterodelaroza/nciplot)
-
-Allows generation of NCI and ELF cube files from a wavefunction (.wfn, .wfx) file.
+[**nciplot**](https://github.com/aoterodelaroza/nciplot) -- Allows generation of NCI and ELF cube files from a wavefunction (.wfn, .wfx) file.
 
 
-[**escher**](https://github.com/aoterodelaroza/escher)
-
-A set of octave routines for generating pretty images of molecular and crystal structures.
+[**escher**](https://github.com/aoterodelaroza/escher) -- A set of octave routines for generating pretty images of molecular and crystal structures.
 
 
-[**bicrystal**](https://tilaskabengele.github.io/BiCrystal/)
-
-Use this to build incommensurate structures of layered materials.
+[**bicrystal**](https://tilaskabengele.github.io/BiCrystal/) -- Use this to build incommensurate structures of layered materials.
 
 
