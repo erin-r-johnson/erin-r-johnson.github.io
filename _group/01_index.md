@@ -7,7 +7,7 @@ excerpt: >-
 search: true
 ---
 
-image_path: images/group-photo-2022.jpg
+image_path: /images/group-photo-2022.jpg
 
 The group, fall 2022. Back row: Kyle, Adebayo. Next from back row: Adrian, Cameron. Next from front row: Nick, Alex, Erin. Front row: Sarah, Alastair.
 
@@ -53,7 +53,7 @@ Undergraduate students:
 * Robert Bailey (2014)
 * Joel Mallory (2013)
 
-image_path: images/group-fall2019.jpg
+image_path: /images/group-fall2019.jpg
 
-image_path: images/dal-2015.jpg
+image_path: /images/dal-2015.jpg
 

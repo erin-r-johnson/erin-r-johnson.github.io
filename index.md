@@ -5,7 +5,7 @@ title: "Home"
 intro:
   - excerpt: ""
 row_all:
-  - image_path: images/news.png
+  - image_path: images/dal-crest.png
     alt: "News"
     title: "News"
     excerpt: >-
@@ -46,7 +46,7 @@ row_all:
     btn_label: "_"
     btn_class: "btn--light-outline"
   - title: "Contact"
-    image_path: images/dal-crest.png
+    image_path: images/erj.jpg
     excerpt: >-
       Contact information for Erin, along with some other useful links.
     alt: "Contact"
