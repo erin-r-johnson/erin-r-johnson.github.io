@@ -5,14 +5,6 @@ title: "Home"
 intro:
   - excerpt: ""
 row_all:
-  - image_path: images/dal-crest.png
-    alt: "News"
-    title: "News"
-    excerpt: >-
-      News from the group.
-    url: /news/
-    btn_label: "_"
-    btn_class: "btn--light-outline"
   - image_path: images/group-photo-2022.jpg
     alt: "Group"
     title: "Group"
@@ -27,6 +19,14 @@ row_all:
     excerpt: >-
       List of publications.
     url: /publications/
+    btn_label: "_"
+    btn_class: "btn--light-outline"
+  - title: "Contact"
+    image_path: images/erj.jpg
+    excerpt: >-
+      Contact information for Erin, along with some other useful links.
+    alt: "Contact"
+    url: /contact/
     btn_label: "_"
     btn_class: "btn--light-outline"
   - image_path: images/harmonic.png
@@ -45,12 +45,12 @@ row_all:
     url: /software/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - title: "Contact"
-    image_path: images/erj.jpg
+  - image_path: images/dal-crest.png
+    alt: "News"
+    title: "News"
     excerpt: >-
-      Contact information for Erin, along with some other useful links.
-    alt: "Contact"
-    url: /contact/
+      News from the group.
+    url: /news/
     btn_label: "_"
     btn_class: "btn--light-outline"
 ---
