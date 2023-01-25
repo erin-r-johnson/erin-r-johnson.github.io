@@ -8,7 +8,7 @@ search: true
 ---
 
 <figure style="width: 80%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/group-photo-2022.png" alt="The group, fall 2022">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/group-photo-2022.jpg" alt="The group, fall 2022">
   <figcaption style="text-align: center"> The group, fall 2022. Back row: Kyle, Adebayo. Next from back row: Adrian, Cameron. Next from front row: Nick, Alex, Erin. Front row: Sarah, Alastair.</figcaption>
 </figure>
 
@@ -56,12 +56,12 @@ Undergraduate students:
 * Joel Mallory (2013)
 
 <figure style="width: 80%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/group-fall2019.png" alt="The group, fall 2019">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/group-fall2019.jpg" alt="The group, fall 2019">
   <figcaption style="text-align: center"> The group, fall 2019.</figcaption>
 </figure>
 
 <figure style="width: 80%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/dal-2015.png" alt="The group, fall 2019">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/dal-2015.jpg" alt="The group, fall 2019">
   <figcaption style="text-align: center"> The group, fall 2015.</figcaption>
 </figure>
 

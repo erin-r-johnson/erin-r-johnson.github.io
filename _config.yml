@@ -42,12 +42,12 @@ head_scripts:
 exclude:
   - LICENSE
 include:
-  - _news/
   - _publications/
   - _group/
+  - _contact/
   - _coursenotes/
   - _software/
-  - _contact/
+  - _news/
 
 collections:
   news:
