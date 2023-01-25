@@ -6,7 +6,7 @@ main:
   - title: "Contact"
     url: /contact/
   - title: "Course Notes"
-    url: /coursenotes/
+    url: /notes/
   - title: "Software"
     url: /software/
   - title: "News"
