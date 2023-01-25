@@ -11,15 +11,21 @@ search: true
 
 Notes: [chem2301-notes.pdf](/downloads/chem2301-notes.pdf)
 
+--
+
 **CHEM 3301: Quantum Chemistry**
 
 Notes: [chem3301-notes.pdf](/downloads/chem3301-notes.pdf)
+
+--
 
 **CHEM 4301/5301: Theory of Chemical Bonding**
 
 Notes: [chem5301-notes.pdf](/downloads/chem5301-notes.pdf)
 
 Tutorial: [chem5301-tutorial.pdf](/downloads/chem5301-tutorial.pdf)
+
+--
 
 **Bonus Content**
 
