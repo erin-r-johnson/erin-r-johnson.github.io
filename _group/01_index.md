@@ -7,6 +7,53 @@ excerpt: >-
 search: true
 ---
 
-images/group-photo-2022.jpg
+image_path: images/group-photo-2022.jpg
 
+The group, fall 2022. Back row: Kyle, Adebayo. Next from back row: Adrian, Cameron. Next from front row: Nick, Alex, Erin. Front row: Sarah, Alastair.
+
+Current Group
+
+Chemistry:
+* Alastair Price 
+* Alex Mayo
+* Sarah Clarke
+* Adrian Rumson
+* Nick Roberts
+
+Physics:
+* Kyle Bryenton
+* Cameron Nickerson
+
+Group Alumni
+
+Post-docs:
+* Adebayo Adeleke (PDF, 2021-2023)
+* Toon Verstraelen (Visiting PDF, 2015)
+* Sarah Whittleton (PDF, 2013-2015)
+* Alberto Otero-de-la-Roza (PDF, 2011-2013)
+
+Graduate students:
+* Joseph Weatherby (MSc, 2022)
+* Fouad Kaadou (MSc, 2022)
+* Xibo "Fred" Feng (PhD, 2021)
+* Tilas Kabengele (MSc, 2021)
+* Luc LeBlanc (PhD, 2019)
+* Matthew Christian (PhD, 2018)
+* Stephen Dale (PhD, 2016)
+* Joseph Dizon (MSc, 2014)
+
+Undergraduate students:
+* Grace Sparrow (2022)
+* Adrian Rumson (2022)
+* Sam Dudra (2020)
+* Joseph Weatherby (2018)
+* Alastair Price (2018)
+* Chris Beeler (2017)
+* Mike Murray (2017)
+* Robert Bailey (2014)
+* Joel Mallory (2013)
+
+image_path: images/group-fall2019.jpg
+
+image_path: images/dal-2015.jpg
 

@@ -26,7 +26,7 @@ row_all:
     title: "Publications"
     excerpt: >-
       List of publications.
-    url: /pubs/
+    url: /publications/
     btn_label: "_"
     btn_class: "btn--light-outline"
   - image_path: images/harmonic.png
@@ -54,6 +54,7 @@ row_all:
     btn_label: "_"
     btn_class: "btn--light-outline"
 ---
+
 
   This is the website for Erin R. Johnson's research group. We are located in the
   Department of Chemistry at Dalhousie University, in Halifax, Canada. Our
