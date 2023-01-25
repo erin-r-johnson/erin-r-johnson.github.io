@@ -7,11 +7,14 @@ excerpt: >-
 search: true
 ---
 
-<figure style="width: 80%" class="align-center">
+<figure style="width: 50%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/group-photo-2022.jpg" alt="The group, fall 2022">
   <figcaption style="text-align: center"> The group, fall 2022. Back row: Kyle, Adebayo. Next from back row: Adrian, Cameron. Next from front row: Nick, Alex, Erin. Front row: Sarah, Alastair.</figcaption>
 </figure>
 
+Prof. [Erin R. Johnson](https://erin-r-johnson.github.io/contact/)
+
+Emeritus Prof. Axel D. Becke
 
 Current Group
 
@@ -55,14 +58,14 @@ Undergraduate students:
 * Robert Bailey (2014)
 * Joel Mallory (2013)
 
-<figure style="width: 80%" class="align-center">
+<figure style="width: 75%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/group-fall2019.jpg" alt="The group, fall 2019">
-  <figcaption style="text-align: center"> The group, fall 2019.</figcaption>
+  <figcaption style="text-align: center"> The group, fall 2019. Left to right: Joe, Fred, Tilas, Axel, Erin, Alastair, Fouad. </figcaption>
 </figure>
 
-<figure style="width: 80%" class="align-center">
+<figure style="width: 75%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/dal-2015.jpg" alt="The group, fall 2019">
-  <figcaption style="text-align: center"> The group, fall 2015.</figcaption>
+  <figcaption style="text-align: center"> The group, fall 2015. Left to right: Erin, Stephen, Matt, Luc.</figcaption>
 </figure>
 
 
