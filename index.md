@@ -21,7 +21,7 @@ row_all:
     url: /group/
     btn_label: "_"
     btn_class: "btn--light-outline"
-  - image_path: images/covers.png
+  - image_path: images/cover.pdf
     alt: "Publications"
     title: "Publications"
     excerpt: >-
