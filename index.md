@@ -48,7 +48,7 @@ row_all:
   - title: "Contact"
     excerpt: >-
       Contact information for Erin, along with some other useful links.
-    image_path: images/dal.png
+    image_path: images/dal-crest.png
     alt: "Contact"
     url: /contact/
     btn_label: "_"
