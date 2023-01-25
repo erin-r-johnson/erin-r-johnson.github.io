@@ -1,0 +1,14 @@
+main:
+  - title: "News"
+    url: /news/
+  - title: "Group"
+    url: /group/
+  - title: "Publications"
+    url: /publications/
+  - title: "Course Notes"
+    url: /coursenotes/
+  - title: "Software"
+    url: /software/
+  - title: "Contact"
+    url: /contact/
+

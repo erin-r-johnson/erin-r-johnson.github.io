@@ -45,6 +45,14 @@ row_all:
     url: /pubs/
     btn_label: "_"
     btn_class: "btn--light-outline"
+  - image_path: images/dal.png
+    alt: "Contact"
+    title: "Contact"
+    excerpt: >-
+      Contact information for Erin, along with some other useful links.
+    url: /contact/
+    btn_label: "_"
+    btn_class: "btn--light-outline"
 ---
 
   This is the website for Erin R. Johnson's research group. We are located in the
@@ -61,3 +69,5 @@ row_all:
 {% include feature_row_local id="intro" type="center" %}
 
 {% include feature_row_local id="row_all" %}
+
+
