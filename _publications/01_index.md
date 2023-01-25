@@ -34,23 +34,43 @@ search: true
 
     **2021**
 
-1. R. A. Mayo and E. R. Johnson, *Improved Quantitative Crystal-Structure Comparison using Powder Diffractograms via Anisotropic Volume Correction.* CrystEngComm. **23**, 7118-7131 (2021). 
+1. R. A. Mayo and E. R. Johnson, *Improved Quantitative Crystal-Structure Comparison using Powder Diffractograms via Anisotropic Volume Correction.* CrystEngComm. **23**, 7118-7131 (2021). [link](https://doi.org/10.1039/D1CE01058A)
 
-1. M. B. Mills, H. K. S. Young, G. G. Wehrle, W. R. Verduyn, X. Feng, P. D. Boyle, P. Dechambenoit, E. R. Johnson and K. E. Preuss, *Non-covalent interactions in organic radicals: pancake-, $\sigma$-hole-, and H-bonding in F$_2$HbinDTDA.* Cryst. Growth Des. **21** 5669-5677 (2021). 
+1. M. B. Mills, H. K. S. Young, G. G. Wehrle, W. R. Verduyn, X. Feng, P. D. Boyle, P. Dechambenoit, E. R. Johnson and K. E. Preuss, *Non-covalent interactions in organic radicals: pancake-, σ-hole-, and H-bonding in F<sub>2</sub>HbinDTDA.* Cryst. Growth Des. **21** 5669-5677 (2021). [link](https://doi.org/10.1021/acs.cgd.1c00520)
 
-1. T. Kabengele, E. R. Johnson, *Theoretical Modeling of Structural Superlubricity in Rotated Bilayer Graphene, Hexagonal Boron Nitride, Molybdenum Disulfide, and Blue Phosphorene.* Nanoscale. **13**, 14399-14407 (2021). 
+1. T. Kabengele, E. R. Johnson, *Theoretical Modeling of Structural Superlubricity in Rotated Bilayer Graphene, Hexagonal Boron Nitride, Molybdenum Disulfide, and Blue Phosphorene.* Nanoscale. **13**, 14399-14407 (2021). [link](https://doi.org/10.1039/D1NR03001A)
 
-1. J. A. Schmidt, J. A. Weatherby, I. J. Sugden, A. Santana-Bonilla, F. Salerno, M. J. Fuchter, E. R. Johnson, J. Nelson, and K. E. Jelfs, *Computational screening of chiral organic semiconductors: exploring side-group functionalisation and assembly to optimise charge transport.* Cryst. Growth Des. **21** 5036-5049 (2021). 
+1. J. A. Schmidt, J. A. Weatherby, I. J. Sugden, A. Santana-Bonilla, F. Salerno, M. J. Fuchter, E. R. Johnson, J. Nelson, and K. E. Jelfs, *Computational screening of chiral organic semiconductors: exploring side-group functionalisation and assembly to optimise charge transport.* Cryst. Growth Des. **21** 5036-5049 (2021). [link](https://doi.org/10.1021/acs.cgd.1c00473)
 
-1. A. J. A. Price, K. R. Bryenton, and E. R. Johnson, *Requirements for an Accurate Dispersion-Corrected Density Functional.* J. Chem. Phys. **154**, 230902 (2021).
+1. A. J. A. Price, K. R. Bryenton, and E. R. Johnson, *Requirements for an Accurate Dispersion-Corrected Density Functional.* J. Chem. Phys. **154**, 230902 (2021). [link](https://doi.org/10.1063/5.0050993)
 
-1. F. Kaadou, J. Maassen, and E. R. Johnson, *Improved Charge Transport across a Metal-MoS$_2$ Interface through Insertion of a Layered Ca$_2$N Electride.* J. Phys. Chem. C **125**, 11656-11664 (2021).
+1. F. Kaadou, J. Maassen, and E. R. Johnson, *Improved Charge Transport across a Metal-MoS<sub>2</sub> Interface through Insertion of a Layered Ca<sub>2</sub>N Electride.* J. Phys. Chem. C **125**, 11656-11664 (2021). [link](https://doi.org/10.1021/acs.jpcc.1c02142)
 
-1. X. Feng, A. D. Becke, and E. R. Johnson, *Theoretical Investigation of Polymorph- and Coformer-Dependent Photoluminescence in Molecular Crystals.* CrystEngComm **23**, 4264-4271 (2021). 
+1. X. Feng, A. D. Becke, and E. R. Johnson, *Theoretical Investigation of Polymorph- and Coformer-Dependent Photoluminescence in Molecular Crystals.* CrystEngComm **23**, 4264-4271 (2021). [link](https://doi.org/10.1039/D1CE00383F)
 
-1. M. S. Christian, E. R. Johnson, and T. M. Besmann, *Interplay between London Dispersion, Hubbard \textit{U}, and Metastable States for Uranium Compounds.* J. Phys. Chem. A **125**, 2791-2799 (2021).
+1. M. S. Christian, E. R. Johnson, and T. M. Besmann, *Interplay between London Dispersion, Hubbard U, and Metastable States for Uranium Compounds.* J. Phys. Chem. A **125**, 2791-2799 (2021). [link](https://doi.org/10.1021/acs.jpca.0c10533)
 
-1. C. C. V. Jones, J. J. Patel, R. D. Jansen-van Vuuren, G. M. Ross, B. O. Keller, F. Sauriol, G. Schatte, E. R. Johnson, and V. Snieckus, *Directed ortho Mono and Double Metalation of Naphthalene 1,8-diamide: Complementing the S$_E$Ar Reactivity for the Synthesis of Substituted Naphthalenes.* Org. Lett. **23**, 1966-1973 (2021). 
+1. C. C. V. Jones, J. J. Patel, R. D. Jansen-van Vuuren, G. M. Ross, B. O. Keller, F. Sauriol, G. Schatte, E. R. Johnson, and V. Snieckus, *Directed ortho Mono and Double Metalation of Naphthalene 1,8-diamide: Complementing the S<sub>E</sub>Ar Reactivity for the Synthesis of Substituted Naphthalenes.* Org. Lett. **23**, 1966-1973 (2021). [link](https://doi.org/10.1021/acs.orglett.1c00521)
 
-1. M. A. White, S. Kahwaji, V. F. S. Freitas, R. Siewert, J. A. Weatherby, M. D. M. C. Ribeiro da Silva, S. P. Verevkin, E. R. Johnson, and J. W. Zwanziger, *Relative Thermodynamic Stability of Diamond and Graphite.* Angew. Chem. Int. Ed. **60**, 1546-1549 (2021).
+1. M. A. White, S. Kahwaji, V. F. S. Freitas, R. Siewert, J. A. Weatherby, M. D. M. C. Ribeiro da Silva, S. P. Verevkin, E. R. Johnson, and J. W. Zwanziger, *Relative Thermodynamic Stability of Diamond and Graphite.* Angew. Chem. Int. Ed. **60**, 1546-1549 (2021). [link](https://doi.org/10.1002/ange.202009897)
+
+    **2020**
+
+1. A. Otero de la Roza and E. R. Johnson, *Application of XDM to Ionic Solids: the Importance of Dispersion for Bulk Moduli and Crystal Geometries.* J. Chem. Phys. **153**, 054121 (2020). [link](https://doi.org/10.1063/5.0015133)
+
+1. A. N. Sharma, L. Grandinetti, E. R. Johnson, M. St. Maurice, and S. L. Bearne, *Potent Inhibition of Mandelate Racemase by Boronic Acids: Boron as a Mimic of a Carbon Acid Center.* Biochem. **59**, 3026-3037 (2020). [link](https://doi.org/10.1021/acs.biochem.0c00478)
+
+1. J. W. M. MacMillan, K. M. Marczenko, E. R. Johnson, and S. S. Chitnis, *Hydrostibination of alkynes: A radical mechanism.* Chem. Eur. J. **26**, 17134-17142 (2020). [link](https://doi.org/10.1002/chem.202003153)
+
+1. A. J. Price and E. R. Johnson, *Theoretical Investigation of Amino-Acid Adsorption on Hydroxylated Quartz Surfaces: Dispersion can Determine Enantioselectivity.* Phys. Chem. Chem. Phys. **22**, 16571-16578 (2020). [link](https://doi.org/10.1039/D0CP02827D)
+
+1. X. Feng, A. D. Becke, and E. R. Johnson, *Computational Modeling of Piezochromism in Molecular Crystals.* J. Chem. Phys. **152**, 234106 (2020). [link](https://doi.org/10.1063/5.0011515)
+
+1. A. Otero de la Roza, L. M. LeBlanc, and E. R. Johnson, *What is "Many-Body" Dispersion and Should I Worry About it?* Phys. Chem. Chem. Phys. **22** 8266-8276 (2020). [link](https://doi.org/10.1039/D0CP01213K)
+
+1. A. Otero de la Roza, L. M. LeBlanc, and E. R. Johnson, *Asymptotic Pairwise Dispersion Corrections Can Describe Layered Materials Accurately.* J. Phys. Chem. Lett. **11**, 2298-2302 (2020). [link](https://doi.org/10.1021/acs.jpclett.0c00348)
+
+1. A. Otero-de-la-Roza and E. R. Johnson. *Analysis of Density-Functional Errors for Non-Covalent Interactions Between Charged Molecules.* J. Phys. Chem. A **124**, 353-361 (2020). [link](https://doi.org/10.1021/acs.jpca.9b10257)
+
+1. E. Awoonor-Williams, W. Isley III, S. G. Dale, B. Roux, A. D. Becke, H. Yu, E. R. Johnson, and C. N. Rowley. *Quantum Chemical Methods for Modeling Covalent Modification of Biological Thiols.* J. Comp. Chem. **41**, 427-438 (2020). [link](https://doi.org/10.1002/jcc.26064)
 
