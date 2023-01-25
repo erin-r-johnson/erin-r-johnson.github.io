@@ -45,7 +45,7 @@ include:
   - _publications/
   - _group/
   - _contact/
-  - _coursenotes/
+  - _notes/
   - _software/
   - _news/
 
@@ -56,7 +56,7 @@ collections:
     output: true
   group:
     output: true
-  coursenotes:
+  notes:
     output: true
   software:
     output: true
