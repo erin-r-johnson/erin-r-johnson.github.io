@@ -16,7 +16,7 @@ search: true
 
     **2022**
 
-1. M. DeJong, A. J. Price, E. Marsell, G. Tom, G. D. Nguygen, E. R. Johnson, and S. A. Burke, *Small Molecule Binding to Surface-Supported Single-Site Transition-Metal Reaction Centres.* Nat. Comm. **13**, 1-10 (2022). [link](https://doi.org/10.1038/s41467-022-35193-6)
+1. M. DeJong, A. J. Price, E. Mårsell, G. Tom, G. D. Nguygen, E. R. Johnson, and S. A. Burke, *Small Molecule Binding to Surface-Supported Single-Site Transition-Metal Reaction Centres.* Nat. Comm. **13**, 1-10 (2022). [link](https://doi.org/10.1038/s41467-022-35193-6)
 
 1. R. A. Mayo, A. Otero de la Roza, and E. R. Johnson, *Development and assessment of an improved powder-diffraction-based method for molecular crystal structure similarity.* CrystEngComm. **24**, 8326-8338 (2022). [link](https://doi.org/10.1039/D2CE01080A)
 
@@ -28,7 +28,7 @@ search: true
 
 1. K. R. Bryenton, A. A. Adeleke, S. G. Dale, and E. R. Johnson, *Delocalization Error: The Greatest Outstanding Challenge in Density-Functional Theory.* Wiley Interdiscip. Rev. Comput. Mol. Sci. e1631 (2022). [link](https://doi.org/10.1002/wcms.1631)
 
-1. J. A. Weatherby, A. F. Rumson, A. J. A. Price, A. Otero-de-la-Roza, E. R. Johnson, *A Density-Functional Benchmark of Vibrational Free-Energy Corrections for Molecular Crystal Polymorphism.* J. Chem. Phys. **156**, 114108 (2022). [link](https://doi.org/10.1063/5.0083082)
+1. J. A. Weatherby, A. F. Rumson, A. J. A. Price, A. Otero de la Roza, E. R. Johnson, *A Density-Functional Benchmark of Vibrational Free-Energy Corrections for Molecular Crystal Polymorphism.* J. Chem. Phys. **156**, 114108 (2022). [link](https://doi.org/10.1063/5.0083082)
 
 1. C. M. Simon, S. L. Dudra, R. T. McGuire, M. J. Ferguson, E. R. Johnson, and M. Stradiotto, *Identification of a Nitrenoid Reductive Elimination Pathway in Nickel-Catalyzed C-N Cross-Coupling.* ACS Catal. **12**, 1475-1480 (2022). [link](https://doi.org/10.1021/acscatal.1c05386)
 
@@ -70,7 +70,55 @@ search: true
 
 1. A. Otero de la Roza, L. M. LeBlanc, and E. R. Johnson, *Asymptotic Pairwise Dispersion Corrections Can Describe Layered Materials Accurately.* J. Phys. Chem. Lett. **11**, 2298-2302 (2020). [link](https://doi.org/10.1021/acs.jpclett.0c00348)
 
-1. A. Otero-de-la-Roza and E. R. Johnson. *Analysis of Density-Functional Errors for Non-Covalent Interactions Between Charged Molecules.* J. Phys. Chem. A **124**, 353-361 (2020). [link](https://doi.org/10.1021/acs.jpca.9b10257)
+1. A. Otero de la Roza and E. R. Johnson, *Analysis of Density-Functional Errors for Non-Covalent Interactions Between Charged Molecules.* J. Phys. Chem. A **124**, 353-361 (2020). [link](https://doi.org/10.1021/acs.jpca.9b10257)
 
-1. E. Awoonor-Williams, W. Isley III, S. G. Dale, B. Roux, A. D. Becke, H. Yu, E. R. Johnson, and C. N. Rowley. *Quantum Chemical Methods for Modeling Covalent Modification of Biological Thiols.* J. Comp. Chem. **41**, 427-438 (2020). [link](https://doi.org/10.1002/jcc.26064)
+1. E. Awoonor-Williams, W. Isley III, S. G. Dale, B. Roux, A. D. Becke, H. Yu, E. R. Johnson, and C. N. Rowley, *Quantum Chemical Methods for Modeling Covalent Modification of Biological Thiols.* J. Comp. Chem. **41**, 427-438 (2020). [link](https://doi.org/10.1002/jcc.26064)
+
+    **2019**
+
+1. L. M. LeBlanc and E. R. Johnson, *Crystal-Energy Landscapes of Active Pharmaceutical Ingredients Using Composite Approaches.* CrystEngComm **21**, 5995-6009 (2019). [link](https://doi.org/10.1039/C9CE00895K)
+
+1. A. Otero de la Roza, L. M. LeBlanc, and E. R. Johnson, *Dispersion XDM with Hybrid Functionals: Delocalization Error and Halogen Bonding in Molecular Crystals.* J. Chem. Theory Comput. **15**, 4933-4944 (2019). [link](https://doi.org/10.1021/acs.jctc.9b00550)
+
+1. J. A. Noël, L. Kreplak, L. M. LeBlanc, D. S. Patterson, M. Fleischauer, E. R. Johnson, and M. A. White, *Structure of Clusters in Liquid Fatty Acids and their Role in Nucleation.* J. Phys. Chem. B **123**, 7043-7054 (2019). [link](https://doi.org/10.1021/acs.jpcb.9b05017)
+
+1. M. R. Vazirisereshk, H. Ye, A. Otero de la Roza, Z. Ye, M. Zhao, A. T. C. Johnson, E. R. Johnson, R. W. Carpick, and A. Martini, *Origin of Nanoscale Friction Contrast between Supported Graphene, MoS<sub>2</sub>, and a Graphene/MoS<sub>2</sub> Heterostructure.* Nano Lett. **19**, 5496-5505 (2019). [link](https://doi.org/10.1021/acs.nanolett.9b02035)
+
+1. D. Santamaría-Pérez, D. Daisenberger, J. Ruiz-Fuertes, T. Marqueño, R. Chulia-Jordan, C. Muehle, M. Jansen, P. Rodriguez-Hernandez, A. Munoz, E. R. Johnson, A. Otero de la Roza, *Gold(I) Sulphide: Unusual Bonding and an Unexpected Computational Challenge in a Simple Solid.* Chem. Sci. **10**, 6467-6475 (2019). [link](https://doi.org/10.1039/C9SC00371A)
+
+    **2018**
+
+1. X. Feng, A. D. Becke, and E. R. Johnson, *Becke's Virial Exciton Model Gives Accurate Charge-Transfer Excitation Energies.* J. Chem. Phys. **149**, 231101 (2018).  [link](https://doi.org/10.1063/1.5078515)
+
+1. S. G. Dale and E. R. Johnson, *Theoretical Descriptors of Electrides.* J. Phys. Chem. A **122**, 9371-9391 (2018). [link](https://doi.org/10.1021/acs.jpca.8b08548)
+
+1. L. M. LeBlanc, J. A. Weatherby, A. Otero de la Roza, and E. R. Johnson, *Non-Covalent Interactions in Molecular Crystals with Local Orbitals Using the Exchange-Hole Dipole Moment Model.* J. Chem. Theory Comput. **14**, 5715-5724 (2018). [link](https://doi.org/10.1021/acs.jctc.8b00797)
+
+1. C. M. Lavoie, J. P. Tassone, M. J. Ferguson, Y. Zhou, E. R. Johnson, and M. Stradiotto, *Probing the Influence of PAd-DalPhos Ancillary Ligand Structure on Nickel-Catalyzed Ammonia Cross-Coupling.* Organometallics **37**, 4015-4023 (2018). [link](https://doi.org/10.1021/acs.organomet.8b00605)
+
+1. S. G. Dale, A. D. Becke, and E. R. Johnson. *Density-Functional Description of Alkalides: Introducing the Alkalide State.* Phys. Chem. Chem. Phys. **20**, 26710-26718 (2018). [link](https://doi.org/10.1039/C8CP04014A)
+
+1. L. M. LeBlanc, S. G. Dale, C. R. Taylor, A. D. Becke, G. M. Day, and E. R. Johnson, *Pervasive Delocalisation Error Causes Spurious Proton Transfer in Organic Acid-Base Co-Crystals.* Angew. Chem. Int. Ed. **57**, 14906-14910 (2018). [link](https://doi.org/10.1002/ange.201809381)
+
+1. A. Otero de la Roza, Á. Martín-Pendás, and E. R. Johnson, *Quantitative electron delocalization in solids from maximally localized Wannier functions.* J. Chem. Theory Comput. **14**, 4699-4710 (2018). [link](https://doi.org/10.1021/acs.jctc.8b00549)
+
+1. E. T. Walters, M. Mohebifar, E. R. Johnson, and C. N. Rowley, *Evaluating the London Dispersion Coefficients of Protein Force Fields Using the Exchange-Hole Dipole Moment Model.* J. Phys. Chem. B **122**, 6690-6701 (2018). [link](https://doi.org/10.1021/acs.jpcb.8b02814)
+
+1. A. D. Becke, S. G. Dale, and E. R. Johnson, *Charge transfer in CT complexes from the Becke'05 density functional.* J. Chem. Phys. **148**, 211101 (2018). [link](https://doi.org/10.1063/1.5039742)
+
+1. S. G. Dale, A. Otero de la Roza, and E. R. Johnson, *Pressure-Induced Isostructural Anti-ferromagnetic-Ferromagnetic Transition in an Organic Electride.* J. Phys. Chem. C **122**, 12742-12747 (2018). [link](https://doi.org/10.1021/acs.jpcc.8b02125)
+
+1. T. Gould, E. R. Johnson, and S. A. Tawfik, *Are dispersion corrections accurate outside equilibrium? A case study on benzene.* Beilstein J. Org. Chem. **14**, 1181-1191 (2018).  [link](https://doi.org/10.3762/bjoc.14.99)
+
+1. A. V. Gatien, C. M. Lavoie, R. N. Bennett, M. J. Ferguson, R. McDonald, E. R. Johnson, A. W. H. Speed, and M. Stradiotto, *Application of Diazaphospholidine/Diazaphospholene-Based Bisphosphines in Room Temperature Nickel-Catalyzed C(sp2)-N Cross-Couplings of Primary Alkylamines with (Hetero)aryl Chlorides and Bromides.* ACS Catalysis **8**, 5328-5339 (2018). [link](https://doi.org/10.1021/acscatal.8b01005)
+
+1. M. S. Christian and E. R. Johnson, *Effect of the Metal Substrate on Interlayer Interactions in Bilayer Graphene.* J. Phys. Chem. C **122**, 8910-8918 (2018). [link](https://doi.org/10.1021/acs.jpcc.7b12743)
+
+1. L. M. LeBlanc, A. Otero de la Roza, and E. R. Johnson, *Composite and Low-Cost Approaches for Molecular Crystal Structure Prediction.* J. Chem. Theory Comput. **14**, 2265-2276 (2018). [link](https://doi.org/10.1021/acs.jctc.7b01179)
+
+1. D. Chevrier, V. D. Thanthirige, Z. Luo, S. Driscoll, P. Cho, M. MacDonald, R. Guda, J. Xie, E. R. Johnson, A. Chatt, N. Zheng, and P. Zhang, *The Structure of Highly Luminescent Protein-Stabilized Gold Nanoclusters.* Chem. Sci. **9**, 2782-2790 (2018). [link](https://doi.org/10.1039/C7SC05086K)
+
+1. X. Feng, A. Otero de la Roza, and E. R. Johnson, *The Effect of Electronic Excitation on London Dispersion.* Can. J. Chem. **96**, 730-737 (2018). [link](https://doi.org/10.1139/cjc-2017-0726)
+
+1. B. Rice, L. M. LeBlanc, A. Otero de la Roza, M. Fuchter, E. R. Johnson, J. Nelson, and K. Jelfs, *A Computational Exploration of the Crystal Energy and Charge Carrier Mobility Landscapes of the Chiral [6]Helicene Molecule.* Nanoscale. **10**, 1865-1876 (2018). [link](https://doi.org/10.1039/C7NR08890F)
 
