@@ -96,7 +96,7 @@ search: true
 
 1. C. M. Lavoie, J. P. Tassone, M. J. Ferguson, Y. Zhou, E. R. Johnson, and M. Stradiotto, *Probing the Influence of PAd-DalPhos Ancillary Ligand Structure on Nickel-Catalyzed Ammonia Cross-Coupling.* Organometallics **37**, 4015-4023 (2018). [link](https://doi.org/10.1021/acs.organomet.8b00605)
 
-1. S. G. Dale, A. D. Becke, and E. R. Johnson. *Density-Functional Description of Alkalides: Introducing the Alkalide State.* Phys. Chem. Chem. Phys. **20**, 26710-26718 (2018). [link](https://doi.org/10.1039/C8CP04014A)
+1. S. G. Dale, A. D. Becke, and E. R. Johnson, *Density-Functional Description of Alkalides: Introducing the Alkalide State.* Phys. Chem. Chem. Phys. **20**, 26710-26718 (2018). [link](https://doi.org/10.1039/C8CP04014A)
 
 1. L. M. LeBlanc, S. G. Dale, C. R. Taylor, A. D. Becke, G. M. Day, and E. R. Johnson, *Pervasive Delocalisation Error Causes Spurious Proton Transfer in Organic Acid-Base Co-Crystals.* Angew. Chem. Int. Ed. **57**, 14906-14910 (2018). [link](https://doi.org/10.1002/ange.201809381)
 
@@ -126,7 +126,7 @@ search: true
 
 1. M. Mohebifar, E. R. Johnson, and C. N. Rowley, *Evaluating Force-Field London Dispersion Coefficients Using the Exchange-Hole Dipole Moment Model.* J. Chem. Theory Comput. **13**, 6146-6157 (2017). [link](https://doi.org/10.1021/acs.jctc.7b00522)
 
-1. S. R. Whittleton, A. Otero-de-la-Roza, and E. R. Johnson, *Exchange-Hole Dipole Dispersion Model for Accurate Energy Ranking in Molecular Crystal Structure Prediction II: Non-Planar Molecules.* J. Chem. Theory. Comput. **13**, 5332-5342 (2017). [link](https://doi.org/10.1021/acs.jctc.7b00715)
+1. S. R. Whittleton, A. Otero de la Roza, and E. R. Johnson, *Exchange-Hole Dipole Dispersion Model for Accurate Energy Ranking in Molecular Crystal Structure Prediction II: Non-Planar Molecules.* J. Chem. Theory. Comput. **13**, 5332-5342 (2017). [link](https://doi.org/10.1021/acs.jctc.7b00715)
 
 1. C.-H. Tien, M. R. Adams, M. J. Ferguson, E. R. Johnson, and A. W. H. Speed, *Synthesis and Catalytic Activity of 1,2,4,3-Triazaphospholenes.* Org. Lett. **19**, 5565-5568 (2017). [link](https://doi.org/10.1021/acs.orglett.7b02695)
 
@@ -134,32 +134,209 @@ search: true
 
 1. S. G. Dale, E. R. Johnson, and A. D. Becke, *Interrogating the B05 Density Functional for Non-Locality Information.* J. Chem. Phys. **147**, 154103 (2017). [link](https://doi.org/10.1063/1.5000909)
 
-1. M. S. Christian, A. Otero-de-la-Roza, and E. R. Johnson, *Adsorption of Graphene to Metal (111) Surfaces using the Exchange-Hole Dipole Moment Model.* Carbon. **124**, 531-540 (2017). [link](https://doi.org/10.1016/j.carbon.2017.08.077)
+1. M. S. Christian, A. Otero de la Roza, and E. R. Johnson, *Adsorption of Graphene to Metal (111) Surfaces using the Exchange-Hole Dipole Moment Model.* Carbon. **124**, 531-540 (2017). [link](https://doi.org/10.1016/j.carbon.2017.08.077)
 
 1. C. M. Lavoie, R. McDonald, E. R. Johnson, and M. Stradiotto, *Bisphosphine-Ligated Nickel Pre-catalysts in C(sp<sup>2</sup>)-N Cross-Couplings of Aryl Chlorides: A Comparison of Ni(I) and Ni(II).*  Adv. Synth. Catal. **359**, 2972-2980 (2017). [link](https://doi.org/10.1002/adsc.201700672)
 
-1. Y. Yang, B. Rice, X. Shi, J. R. Brandt, R. Correa da Costa, G. Hedley, D.-M. Smilgies, J. M. Frost, I. D. W. Samuel, A. Otero-de-la-Roza, E. R. Johnson, K. E. Jelfs, J. Nelson, A. J. Campbell and M. J. Fuchter, *Emergent Properties of an Organic Semiconductor Driven by its Molecular Chirality.* ACS Nano. **11**, 8329-8338 (2017). [link](https://doi.org/10.1021/acsnano.7b03540)
+1. Y. Yang, B. Rice, X. Shi, J. R. Brandt, R. Correa da Costa, G. Hedley, D.-M. Smilgies, J. M. Frost, I. D. W. Samuel, A. Otero de la Roza, E. R. Johnson, K. E. Jelfs, J. Nelson, A. J. Campbell and M. J. Fuchter, *Emergent Properties of an Organic Semiconductor Driven by its Molecular Chirality.* ACS Nano. **11**, 8329-8338 (2017). [link](https://doi.org/10.1021/acsnano.7b03540)
 
 1. E. R. Johnson and A. D. Becke, *DFT Treatment of Strong Correlation in 3d Transition-Metal Diatomics.* J. Chem. Phys. **146**, 211105 (2017). [link](https://doi.org/10.1063/1.4985084)
 
 1. S. G. Dale and E. R. Johnson, *Thermodynamic Cycles of the Alkali Metal-Ligand Complexes Central to Electride Formation.* Phys. Chem. Chem. Phys. **19**, 12816-12825 (2017). [link](https://doi.org/10.1039/C7CP00882A)
 
-1. M. S. Christian, A. Otero-de-la-Roza, and E. R. Johnson, *Adsorption of Graphene to Nickel (111) using the Exchange-Hole Dipole Moment Model.* Carbon. **118**, 184-191 (2017). [link](https://doi.org/10.1016/j.carbon.2017.03.024)
+1. M. S. Christian, A. Otero de la Roza, and E. R. Johnson, *Adsorption of Graphene to Nickel (111) using the Exchange-Hole Dipole Moment Model.* Carbon. **118**, 184-191 (2017). [link](https://doi.org/10.1016/j.carbon.2017.03.024)
 
-1. S. R. Whittleton, A. Otero-de-la-Roza, and E. R. Johnson, *The Exchange-Hole Dipole Dispersion Model for Accurate Energy Ranking in Molecular Crystal Structure Prediction.* J. Chem. Theory Comput. **13**, 441-450 (2017). [link](https://doi.org/10.1021/acs.jctc.6b00679)
+1. S. R. Whittleton, A. Otero de la Roza, and E. R. Johnson, *The Exchange-Hole Dipole Dispersion Model for Accurate Energy Ranking in Molecular Crystal Structure Prediction.* J. Chem. Theory Comput. **13**, 441-450 (2017). [link](https://doi.org/10.1021/acs.jctc.6b00679)
 
     **2016**
 
-1. L. M. LeBlanc, A. Otero-de-la-Roza, and E. R. Johnson, *Evaluation of Shear-Slip Transitions in Crystalline Aspirin by Density-Functional Theory.* Cryst. Growth Des. **16**, 6867-6873 (2016). [link](https://doi.org/10.1021/acs.cgd.6b01038)
+1. L. M. LeBlanc, A. Otero de la Roza, and E. R. Johnson, *Evaluation of Shear-Slip Transitions in Crystalline Aspirin by Density-Functional Theory.* Cryst. Growth Des. **16**, 6867-6873 (2016). [link](https://doi.org/10.1021/acs.cgd.6b01038)
 
 1. S. G. Dale and E. R. Johnson, *The Explicit Examination of the Magnetic States of Electrides.* Phys. Chem. Chem. Phys. **18**, 27326-27335 (2016). [link](https://doi.org/10.1039/C6CP05345A)
 
-1. A. Otero-de-la-Roza, J. E. Hein, and E. R. Johnson, *Reevaluating the Stability and Prevalence of Conglomerates: Implications for Preferential Crystallization.* Cryst. Growth Des.
+1. A. Otero de la Roza, J. E. Hein, and E. R. Johnson, *Reevaluating the Stability and Prevalence of Conglomerates: Implications for Preferential Crystallization.* Cryst. Growth Des.
 **16**, 6055-6059 (2016). [link](https://doi.org/10.1021/acs.cgd.6b01088)
 
-1. M. S. Christian, A. Otero-de-la-Roza, and E. R. Johnson. *Surface Adsorption from the Exchange-Hole Dipole Moment Dispersion Model.* J. Chem. Theory Comput. **12**, 3305-3315 (2016). [link](https://doi.org/10.1021/acs.jctc.6b00222)
+1. M. S. Christian, A. Otero de la Roza, and E. R. Johnson, *Surface Adsorption from the Exchange-Hole Dipole Moment Dispersion Model.* J. Chem. Theory Comput. **12**, 3305-3315 (2016). [link](https://doi.org/10.1021/acs.jctc.6b00222)
 
-1. A. Otero-de-la-Roza, G. A. DiLabio, and E. R. Johnson, *Exchange-Correlation Effects for Non-Covalent Interactions in Density-Functional Theory.* J. Chem. Theory. Comput. **12**, 3160-3175 (2016). [link](https://doi.org/10.1021/acs.jctc.6b00298)
+1. A. Otero de la Roza, G. A. DiLabio, and E. R. Johnson, *Exchange-Correlation Effects for Non-Covalent Interactions in Density-Functional Theory.* J. Chem. Theory. Comput. **12**, 3160-3175 (2016). [link](https://doi.org/10.1021/acs.jctc.6b00298)
 
-1. J. B. Dizon and E. R. Johnson. *van der Waals Potential Energy Surfaces from the Exchange-Hole Dipole Moment Dispersion Model.* Can. J. Chem. **94**, 1049-1056 (2016). [link](https://doi.org/10.1139/cjc-2016-0215)
+1. J. B. Dizon and E. R. Johnson, *van der Waals Potential Energy Surfaces from the Exchange-Hole Dipole Moment Dispersion Model.* Can. J. Chem. **94**, 1049-1056 (2016). [link](https://doi.org/10.1139/cjc-2016-0215)
+
+    **2015**
+
+1. S. G. Dale and E. R. Johnson, *Counterintuitive Electron Localisation from Density-Functional Theory with Polarisable Solvent Models.* J. Chem. Phys. **143**, 184112 (2015).
+
+1. A. Otero de la Roza and E. R. Johnson, *Predicting Energetics of Supramolecular Systems using the XDM Dispersion Model.* J. Chem. Theory Comput. **11**, 4033-4040 (2015).
+
+1. H. Gao, A. Otero de la Roza, J. Gu, D. Stone, S. Aouadi, E. R. Johnson, and A. Martini, *(Ag,Cu)-Ta-O Ternaries as High Temperature Solid Lubricants.* ACS Appl. Mater. Interfaces. **7**, 15422-15429 (2015).
+
+1. V. E. J. Berryman, R. J. Boyd, and E. R. Johnson, *Balancing Exchange Mixing in Density-Functional Approximations for Iron Porphyrin.* J. Chem. Theory Comput. **11**, 3022-3028 (2015).
+
+1. E. R. Johnson, O. Clarkin, S. G. Dale, and G. A. DiLabio, *Kinetics of the Addition of Olefins to Si-Centered Radicals: The Critical Role of Dispersion Interactions Revealed by Theory and Experiment.* J. Phys. Chem. A. **119**, 5883 (2015).
+
+1. S. R. Whittleton, X. A. Sosa-Vazquez, C. M. Isborn, and E. R. Johnson, *Density-Functional Errors in Ionization Potential with Increasing System Size.* J. Chem. Phys. **142**, 184106 (2015).
+
+1. Z. Ye, A. Otero de la Roza, E. R. Johnson, and A. Martini, *Oscillatory Motion in Layered Materials: Graphene, Boron Nitride, and Molybdenum Disulfide.* Nanotechnology **26**, 165701 (2015).
+
+1. M. Warehime, E. R. Johnson, and J. Klos, *New XDM-Corrected Potential Energy Surfaces for Ar-NO(X<sup>2<\sup>Π): A Comparison with CCSD(T) Calculations and Experiments.* J. Chem. Phys. **142**, 024302 (2015).
+
+1. M. S. Christian, S. R. Whittleton, A. Otero de la Roza, and E. R. Johnson, *Chemical Bonding and Surface Interactions in Bi<sub>2</sub>Se<sub>3</sub> and Bi<sub>4</sub>Se<sub>3</sub>.*  Comp. Theor. Chem. **1053**, 238-244 (2015).
+
+    **2014**
+
+1. A. Otero de la Roza, E. R. Johnson, and G. A. DiLabio, *Halogen Bonding from Dispersion-Corrected Density-Functional Theory: The Role of Delocalization Error.* J. Chem. Theory Comput. **10**, 5436-5447 (2014).
+
+1. Z. Ye, A. Otero de la Roza, E. R. Johnson, and A. Martini, *Oscillatory Motion of Bilayer Graphene.* Nanotech. **25**, 425703 (2014).
+
+1. E. R. Johnson, *Local-Hybrid Functional based on the Correlation Length.* J. Chem. Phys. **141**, 124120 (2014).
+
+1. H. Gao, A. Otero de la Roza, S. M. Aouadi, A. Martini, and E. R. Johnson, *Chemical Basis of the Tribological Properties of AgTaO<sub>3</sub> Crystal Surfaces.* J. Phys. Chem. C **118**, 17577-17584 (2014).
+
+1. A. Otero de la Roza, B. Huynh Cao, I. K. Price, J. E. Hein, and E. R. Johnson, *Predicting the Relative Solubilities of Racemic and Enantiopure Crystals by Density-Functional Theory.* Angew. Chem. Int. Ed. **53**, 7879-7882 (2014).
+
+1. S. G. Dale, A. Otero de la Roza, and E. R. Johnson, *Density-Functional Description of Electrides.* Phys. Chem. Chem. Phys. **6**, 14584-14593 (2014).
+
+1. A. Otero de la Roza, J. D. Mallory, and E. R. Johnson, *Metallophilic Interactions from Dispersion-Corrected Density-Functional Theory.* J. Chem. Phys. **140**, 18A504 (2014).
+
+1. A. Otero de la Roza, E. R. Johnson, and V. Luaña, *Critic2: A Program for Real-Space Analysis of Quantum Chemical Interactions in Solids.* Comp. Phys. Comm. **185**, 1007–1018 (2014).
+
+    **2013**
+
+1. E. R. Johnson, A. Otero de la Roza, S. G. Dale, and G. A. DiLabio, *Efficient Basis Sets for Non-Covalent Interactions in XDM-Corrected Density-Functional Theory.* J. Chem. Phys. **139**, 214109 (2013)
+
+1. E. R. Johnson, A. Otero de la Roza, and S. G. Dale, *Extreme Density-Driven Delocalization Error for a Model Solvated-Electron System.* J. Chem. Phys. **139**, 184116 (2013).
+
+1. X. Shen, C. Viney, E. R. Johnson, C. Wang, and J. Q. Lu, *Large Negative Thermal Expansion of a Polymer Driven by Sub-Molecular Conformational Change.* Nat. Chem. **5**, 1035-1041 (2013).
+
+1. C. M. Isborn, C. Tang, A. Martini, E. R. Johnson, A. Otero de la Roza, and V. C. Tung, *Carbon Nanotube Chirality Determines Efficiency of Electron Transfer to Fullerene in All-Carbon Photovoltaics.* J. Phys. Chem. Lett. **4**, 2914-2918 (2013).
+
+1. E. R. Johnson, *A Density Functional for Strong Correlation in Atoms.* J. Chem. Phys. **139**, 074110 (2013).
+
+1. Y. Jin, E. R. Johnson, X. Hu, W. Yang, and H. Hu, *Contributions of Pauli Repulsions to the Energetics and Physical Properties Computed in QM/MM Methods.* J. Comp. Chem. **34**, 2380-2388 (2013).
+
+1. Z. Ye, A. Otero de la Roza, E. R. Johnson, and A. Martini, *Effect of Tip Shape on Atomic Friction at Graphite Step Edges.* App. Phys. Lett. **103**, 081601 (2013).
+
+1. G. A. DiLabio, E. R. Johnson, and A. Otero de la Roza, *An Evaluation of the Performance of Conventional and Dispersion-Corrected Density-Functional Theory Methods for Hydrogen Bonding Interaction Energies.* Phys. Chem. Chem. Phys. **15**, 12821-12828 (2013).
+
+1. A. Otero de la Roza and E. R. Johnson, *Non-Covalent Interactions and Thermochemistry using XDM-Corrected Hybrid and Range-Separated Hybrid Density Functionals.* J. Chem. Phys. **138**, 204109 (2013).
+
+1. H. Gao, A. Otero de la Roza, S. M. Aouadi, E. R. Johnson, and A. Martini, *An Empirical Model for Silver Tantalate.* Modeling Simul. Mater. Sci. Eng. **21**, 055002 (2013).
+
+1. A. Otero de la Roza and E. R. Johnson, *Many-Body Dispersion Interactions from the Exchange-Hole Dipole Moment Model.* J. Chem. Phys. **138**, 054103 (2013).
+
+1. E. R. Johnson, M. Salamone, M. Bietti, and G. A. DiLabio, *Modeling Non-Covalent Radical-Molecule Interactions Using Conventional Density-Functional Theory: Beware Erroneous Charge Transfer.* J. Phys. Chem. A **117**, 947-952 (2013).
+
+    **2012**
+
+1. X. Zheng, M. Liu, E. R. Johnson, J. Contreras-García, and W. Yang, *Delocalization Error of Density-Functional Approximations: A Distinct Manifestation in Hydrogen Molecular Chains.* J. Chem. Phys. **137**, 214106 (2012).
+
+1. E. R. Johnson and A. Otero de la Roza, *Adsorption of Organic Molecules on Kaolinite from the Exchange-Hole Dipole Moment Dispersion Model.* J. Chem. Theory Comput. **8**, 5124-5131 (2012).
+
+1. D. Peng, X. Hu, D. Devarajan, D. H. Ess, E. R. Johnson, and W. Yang, *Variational Fractional-Spin Density-Functional Theory for Diradicals.* J. Chem. Phys. **137**, 114112 (2012).
+
+1. E. R. Johnson, J. Contreras-García, and W. Yang, *Density-Functional Errors in Alkanes: a Real-Space Perspective.* J. Chem. Theory Comput. **8**, 2676-2681 (2012).
+
+1. A. Otero de la Roza, E. R. Johnson, and J. Contreras-García, *Revealing Non-Covalent Interactions in Solids: NCI Plots Revisited.* Phys. Chem. Chem. Phys. **14**, 12165-12172 (2012).
+
+1. A. Otero de la Roza and E. R. Johnson, *A Benchmark for Non-Covalent Interactions in Solids.* J. Chem. Phys. **137**, 054103 (2012).
+
+1. A. Otero de la Roza and E. R. Johnson, *van der Waals Interactions in Solids using the Exchange-Hole Dipole Moment Model.* J. Chem. Phys. **136**, 174109 (2012).
+
+    **2011**
+
+1. E. R. Johnson, *Dependence of Dispersion Coefficients on Atomic Environment.* J. Chem. Phys. **135**, 234109 (2011).
+
+1. E. R. Johnson and J. Contreras-García, *A Density Functional with Accurate Fractional-Charge and Fractional-Spin Behaviour for s-Electrons.* J. Chem. Phys. **135**, 081103 (2011).
+
+1. J. Contreras-García, W. Yang, and E. R. Johnson, *Analysis of Hydrogen-Bond Interaction Potentials from the Electron Density: Integration of Noncovalent Interaction Regions.* J. Phys. Chem. A **115**, 12983 (2011).
+
+1. J. Contreras-García, E. R. Johnson, S. Keinan, R. Chaudret, J-P. Piquemal, D. N. Beratan, and W. Yang, *NCIPLOT: A Program for Plotting Noncovalent Interaction Regions.* J. Chem. Theory Comput. **7**, 625 (2011).
+
+1. D. H. Ess, E. R. Johnson, X. Hu, and W. Yang, *Singlet-Triplet Energy Gaps for Diradicals from Fractional-Spin Density-Functional Theory.* J. Phys. Chem. A **115**, 76 (2011).
+
+    **2010**
+
+1. E. R. Johnson, W. Yang, and E. R. Davidson, *Spin-State Splittings, Highest-Occupied-Molecular-Orbital and Lowest-Unoccupied-Molecular-Orbital Energies, and Chemical Hardness.* J. Chem. Phys. **133**, 164107 (2010).
+
+1. E. R. Johnson, S. Keinan, P. Mori-Sánchez, J. Contreras-García, A. J. Cohen, and W. Yang, *Revealing Non-Covalent Interactions.* J. Am. Chem. Soc. **132**, 6498 (2010).
+
+    **2009**
+
+1. E. R. Johnson, I. D. Mackie, and G. A. DiLabio, *Dispersion Interactions in Density-Functional Theory.* J. Phys. Org. Chem. **22**, 1127 (2009).
+
+1. E. R. Johnson and A. D. Becke, *Tests of an Exact-Exchange-Based Density-Functional Theory on Transition-Metal Complexes.* Can. J. Chem. **87**, 1369 (2009).
+
+1. E. R. Johnson, A. D. Becke, C. D. Sherrill, and G. A. DiLabio, *Oscillations in Meta-GGA Potential Energy Surfaces for Dispersion-Bound Complexes.* J. Chem. Phys. **131**, 034111 (20
+09).
+
+1. G. A. DiLabio, E. R. Johnson, and J. L. Pitters, *Pentacene Binds Strongly to Hydrogen-Terminated Silicon Surfaces Via Dispersion Interactions.* J. Phys. Chem. C **113**, 9969 (2009).
+
+1. E. R. Johnson and G. A. DiLabio, *Radicals as Hydrogen-Bond Donors and Acceptors.* Interdiscipl. Sci. - Comput. Life. Sci. **1**, 133 (2009).
+
+1. E. R. Johnson and G. A. DiLabio, *Theoretical Study of Dispersion Binding of Hydrocarbon Molecules to Hydrogen-Terminated Silicon(100)-2×1.* J. Phys. Chem. C **113**, 5681 (2009).
+
+1. E. R. Johnson and G. A. DiLabio, *Convergence of Calculated Nuclear Magnetic Resonance Chemical Shifts in a Protein With Respect to Quantum Mechanical Model Size.* J. Mol. Struct. Theochem. **898**, 56 (2009).
+
+    **2008**
+
+1. E. R. Johnson, P. Mori-Sánchez, A. J. Cohen, and W. Yang, *Delocalization Errors in Density-Functional Theory and Implications for Main-Group Thermochemistry.* J. Chem. Phys. **129**, 204112 (2008).
+
+1. E. R. Johnson and A. D. Becke, *A Unified Density-Functional Treatment of Dynamical, Nondynamical and Dispersion Correlations II: Thermochemical and Kinetic Benchmarks.* J. Chem. Phys. **128**, 124105 (2008).
+
+    **2007**
+
+1. A. D. Becke and E. R. Johnson, *Exchange-Hole Dipole Moment and the Dispersion Interaction Revisited.* J. Chem. Phys. **127**, 154108 (2007).
+
+1. A. D. Becke and E. R. Johnson, *A Unified Density-Functional Treatment of Dynamical, Nondynamical and Dispersion Correlations.* J. Chem. Phys. **127**, 124108 (2007).
+
+1. E. R. Johnson, R. M. Dickson, and A. D. Becke, *Density Functionals and Transition-Metal Atoms.* J. Chem. Phys. **126**, 184104 (2007).
+
+1. G. A. DiLabio and E. R. Johnson, *Lone Pair-π and π-π Interactions play an Important Role in Proton Coupled Electron Transfer Reactions.* J. Am. Chem. Soc. **129**, 6199 (2007).
+
+1. E. R. Johnson, D. J. J. McKay, and G. A. DiLabio, *Hydrogen-Bond Strengths in Large Complexes: Efficient Calculations using Locally Dense Basis Sets.* Chem. Phys. Lett. **435**, 201 (2007).
+
+    **2006**
+
+1. E. R. Johnson and A. D. Becke, *van der Waals Interactions from the Exchange Hole Dipole Moment: Application to Bio-Organic Benchmark Systems.* Chem. Phys. Lett. **432**, 600 (2006).
+
+1. A. D. Becke and E. R. Johnson, *A Simple Effective Potential for Exchange.* J. Chem. Phys. **124**, 221101 (2006).
+
+1. E. R. Johnson and A. D. Becke, *A Post-Hartree-Fock Model of Intermolecular Interactions: Inclusion of Higher-Order Corrections.* J. Chem. Phys. **124**, 174104 (2006).
+
+1. A. D. Becke and E. R. Johnson, *Exchange-hole Dipole Moment and the Dispersion Interaction: High-Order Dispersion Coefficients.* J. Chem. Phys. **124**, 014104 (2006).
+
+1. E. R. Johnson and G. A. DiLabio, *Structure and Binding Energies in van der Waals Dimers: Comparison between Density Functional Theory and Correlated Ab Initio Methods.* Chem. Phys. Lett. **419**, 333 (2006).
+
+    **2005**
+
+1. A. D. Becke and E. R. Johnson, *A Density-Functional Model of the Dispersion Interaction.*  J. Chem. Phys. **123**, 154101 (2005).
+
+1. E. R. Johnson and A. D. Becke, *A Post-Hartree-Fock Model of Intermolecular Interactions.* J. Chem. Phys. **123**, 024101 (2005).
+
+1. A. D. Becke and E. R. Johnson, *Exchange-Hole Dipole Moment and the Dispersion Interaction.* J. Chem. Phys. **122**, 154104 (2005).
+
+1. G. A. DiLabio, R. A. Wolkow, and E. R. Johnson, *Efficient Silicon Surface and Cluster Modeling Using Quantum Capping Potentials.* J. Chem. Phys. **122**, 044708 (2005).
+
+1. E. R. Johnson, R. A. Wolkow, and G. A. DiLabio, *Reply to Comment on "Application of 25 Density Functionals to Dispersion-Bound Homomolecular Dimers."* Chem. Phys. Lett. **401**, 595 (2005).
+
+    **2004**
+
+1. E. R. Johnson and G. A. DiLabio, *A Theoretical Study of the Dispersion-Bound Silane-Methane Dimer.* Chem. Phys. Lett. **397**, 314 (2004).
+
+1. E. R. Johnson, R. A. Wolkow, and G. A. DiLabio, *Application of 25 Density Functionals to Dispersion-Bound Homomolecular Dimers.* Chem. Phys. Lett. **394**, 334 (2004).
+
+    **2003**
+
+1. E. R. Johnson, O. J. Clarkin, and G. A. DiLabio, *Density Functional Theory based Model Calculations for Accurate Bond Dissociation Enthalpies. 3. A Single Approach for X-H, X-X, and X-Y (X, Y = C, N, O, S, Halogen) Bonds.* J. Phys. Chem. A. **107**, 9953 (2003).
+
+    **2002**
+
+1. P. Kruse, E. R. Johnson, G. A. DiLabio, and R. A. Wolkow, *Patterning of Vinylferrocene on H-Si(100) via Self-Directed Growth of Molecular Lines and STM-Induced Decomposition.* Nano Lett. **2**, 807 (2002).
+
+1. M. C. Foti, E. R. Johnson, M. R. Vinqvist, J. S. Wright, L. R. C. Barclay, and K. U. Ingold, *Naphthalene Diols: A New Class of Antioxidants. Intramolecular Hydrogen Bonding in Catechols, Naphthalene Diols, and Their Aryloxyl Radicals.* J. Org. Chem. **67**, 5190 (2002).
+
+    **2001**
+
+1. J. S. Wright, E. R. Johnson, and G. A. DiLabio, *Predicting the Activity of Phenolic Antioxidants: Theoretical Method, Analysis of Substituent Effects, and Applications to Major Families of Antioxidants.* J. Am. Chem. Soc. **123**, 1173 (2001).
 
