@@ -122,3 +122,44 @@ search: true
 
 1. B. Rice, L. M. LeBlanc, A. Otero de la Roza, M. Fuchter, E. R. Johnson, J. Nelson, and K. Jelfs, *A Computational Exploration of the Crystal Energy and Charge Carrier Mobility Landscapes of the Chiral [6]Helicene Molecule.* Nanoscale. **10**, 1865-1876 (2018). [link](https://doi.org/10.1039/C7NR08890F)
 
+    **2017**
+
+1. M. Mohebifar, E. R. Johnson, and C. N. Rowley, *Evaluating Force-Field London Dispersion Coefficients Using the Exchange-Hole Dipole Moment Model.* J. Chem. Theory Comput. **13**, 6146-6157 (2017). [link](https://doi.org/10.1021/acs.jctc.7b00522)
+
+1. S. R. Whittleton, A. Otero-de-la-Roza, and E. R. Johnson, *Exchange-Hole Dipole Dispersion Model for Accurate Energy Ranking in Molecular Crystal Structure Prediction II: Non-Planar Molecules.* J. Chem. Theory. Comput. **13**, 5332-5342 (2017). [link](https://doi.org/10.1021/acs.jctc.7b00715)
+
+1. C.-H. Tien, M. R. Adams, M. J. Ferguson, E. R. Johnson, and A. W. H. Speed, *Synthesis and Catalytic Activity of 1,2,4,3-Triazaphospholenes.* Org. Lett. **19**, 5565-5568 (2017). [link](https://doi.org/10.1021/acs.orglett.7b02695)
+
+1. S. G. Dale and E. R. Johnson, *The Ionic Versus Metallic Nature of 2D Electrides: A Density-Functional Description.* Phys. Chem. Chem. Phys.  **19**, 27343-27352 (2017). [link](https://doi.org/10.1039/C7CP04825D)
+
+1. S. G. Dale, E. R. Johnson, and A. D. Becke, *Interrogating the B05 Density Functional for Non-Locality Information.* J. Chem. Phys. **147**, 154103 (2017). [link](https://doi.org/10.1063/1.5000909)
+
+1. M. S. Christian, A. Otero-de-la-Roza, and E. R. Johnson, *Adsorption of Graphene to Metal (111) Surfaces using the Exchange-Hole Dipole Moment Model.* Carbon. **124**, 531-540 (2017). [link](https://doi.org/10.1016/j.carbon.2017.08.077)
+
+1. C. M. Lavoie, R. McDonald, E. R. Johnson, and M. Stradiotto, *Bisphosphine-Ligated Nickel Pre-catalysts in C(sp<sup>2</sup>)-N Cross-Couplings of Aryl Chlorides: A Comparison of Ni(I) and Ni(II).*  Adv. Synth. Catal. **359**, 2972-2980 (2017). [link](https://doi.org/10.1002/adsc.201700672)
+
+1. Y. Yang, B. Rice, X. Shi, J. R. Brandt, R. Correa da Costa, G. Hedley, D.-M. Smilgies, J. M. Frost, I. D. W. Samuel, A. Otero-de-la-Roza, E. R. Johnson, K. E. Jelfs, J. Nelson, A. J. Campbell and M. J. Fuchter, *Emergent Properties of an Organic Semiconductor Driven by its Molecular Chirality.* ACS Nano. **11**, 8329-8338 (2017). [link](https://doi.org/10.1021/acsnano.7b03540)
+
+1. E. R. Johnson and A. D. Becke, *DFT Treatment of Strong Correlation in 3d Transition-Metal Diatomics.* J. Chem. Phys. **146**, 211105 (2017). [link](https://doi.org/10.1063/1.4985084)
+
+1. S. G. Dale and E. R. Johnson, *Thermodynamic Cycles of the Alkali Metal-Ligand Complexes Central to Electride Formation.* Phys. Chem. Chem. Phys. **19**, 12816-12825 (2017). [link](https://doi.org/10.1039/C7CP00882A)
+
+1. M. S. Christian, A. Otero-de-la-Roza, and E. R. Johnson, *Adsorption of Graphene to Nickel (111) using the Exchange-Hole Dipole Moment Model.* Carbon. **118**, 184-191 (2017). [link](https://doi.org/10.1016/j.carbon.2017.03.024)
+
+1. S. R. Whittleton, A. Otero-de-la-Roza, and E. R. Johnson, *The Exchange-Hole Dipole Dispersion Model for Accurate Energy Ranking in Molecular Crystal Structure Prediction.* J. Chem. Theory Comput. **13**, 441-450 (2017). [link](https://doi.org/10.1021/acs.jctc.6b00679)
+
+    **2016**
+
+1. L. M. LeBlanc, A. Otero-de-la-Roza, and E. R. Johnson, *Evaluation of Shear-Slip Transitions in Crystalline Aspirin by Density-Functional Theory.* Cryst. Growth Des. **16**, 6867-6873 (2016). [link](https://doi.org/10.1021/acs.cgd.6b01038)
+
+1. S. G. Dale and E. R. Johnson, *The Explicit Examination of the Magnetic States of Electrides.* Phys. Chem. Chem. Phys. **18**, 27326-27335 (2016). [link](https://doi.org/10.1039/C6CP05345A)
+
+1. A. Otero-de-la-Roza, J. E. Hein, and E. R. Johnson, *Reevaluating the Stability and Prevalence of Conglomerates: Implications for Preferential Crystallization.* Cryst. Growth Des.
+**16**, 6055-6059 (2016). [link](https://doi.org/10.1021/acs.cgd.6b01088)
+
+1. M. S. Christian, A. Otero-de-la-Roza, and E. R. Johnson. *Surface Adsorption from the Exchange-Hole Dipole Moment Dispersion Model.* J. Chem. Theory Comput. **12**, 3305-3315 (2016). [link](https://doi.org/10.1021/acs.jctc.6b00222)
+
+1. A. Otero-de-la-Roza, G. A. DiLabio, and E. R. Johnson, *Exchange-Correlation Effects for Non-Covalent Interactions in Density-Functional Theory.* J. Chem. Theory. Comput. **12**, 3160-3175 (2016). [link](https://doi.org/10.1021/acs.jctc.6b00298)
+
+1. J. B. Dizon and E. R. Johnson. *van der Waals Potential Energy Surfaces from the Exchange-Hole Dipole Moment Dispersion Model.* Can. J. Chem. **94**, 1049-1056 (2016). [link](https://doi.org/10.1139/cjc-2016-0215)
+
