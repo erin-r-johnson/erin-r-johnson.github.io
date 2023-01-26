@@ -34,6 +34,7 @@ Reference data for selected benchmark sets can be found here: [**refdata**](http
 XDM damping parameters for use with selected electronic structure packages can be found in the **postg** distribution. A subset of these is shown here:
 
 **Quantum ESPRESSO**
+
 | Functional | Basis | a<sub>1</sub> | a<sub>2</sub> (Å) |
 |------------|-------|---------------|-------------------|
 | B86bPBE    |  PAW  |    0.6512     |      1.4633       |
@@ -41,6 +42,7 @@ XDM damping parameters for use with selected electronic structure packages can b
 
 
 **FHI-aims**
+
 | Functional | Basis | a<sub>1</sub> | a<sub>2</sub> (Å) |
 |------------|-------|---------------|-------------------|
 | PBE        | light |     0.5312    |      2.3270       |
@@ -56,6 +58,7 @@ XDM damping parameters for use with selected electronic structure packages can b
 
 
 **Gaussian**
+
 | Functional |     Basis      | a<sub>1</sub> | a<sub>2</sub> (Å) |
 |------------|----------------|---------------|-------------------|
 | PBE0       |  aug-cc-pVTZ   |     0.4186    |      2.6791       |
