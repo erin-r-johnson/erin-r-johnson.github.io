@@ -12,7 +12,7 @@ search: true
 
 1. C. M. Simon, K. N. Robertson, P. L. DeRoy, A. A. Yadav, E. R. Johnson, M. Stradiotto, *Nickel-Catalyzed N-Arylation of Sulfinamides: A Comparative Study versus Analogous Sulfonamide Cross-Couplings.* Organometallics (2023).  [link](https://doi.org/10.1021/acs.organomet.2c00545)
 
-1. A. J. A. Price, A. Otero de la Roza, and E. R. Johnson, *XDM-corrected hybrid DFT with numerical atomic orbitals predicts molecular crystal energetics with unprecedented accuracy.* Chem. Sci. (2023). [link](https://doi.org/10.1039/D2SC05997E)
+1. A. J. A. Price, A. Otero de la Roza, and E. R. Johnson, *XDM-corrected hybrid DFT with numerical atomic orbitals predicts molecular crystal energetics with unprecedented accuracy.* Chem. Sci. **14**, 1252-1262 (2023). [link](https://doi.org/10.1039/D2SC05997E)
 
     **2022**
 
