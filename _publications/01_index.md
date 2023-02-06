@@ -11,7 +11,7 @@ search: true
 on the theoretical description of bulk metals.* Phys. Rev. B **107**, 
 064101 (2023). [link](https://doi.org/10.1103/PhysRevB.107.064101)
 
-1. A. J. A. Price, R. A. Mayo, A. Otero de la Roza, and E. R. Johnson, *Accurate and efficient polymorph energy ranking with XDM-corrected hybrid DFT.*  CrystEngComm (2023). [link](https://doi.org/10.1039/D2CE01594C)
+1. A. J. A. Price, R. A. Mayo, A. Otero de la Roza, and E. R. Johnson, *Accurate and efficient polymorph energy ranking with XDM-corrected hybrid DFT.*  CrystEngComm **25** 953-960 (2023). [link](https://doi.org/10.1039/D2CE01594C)
 
 1. C. M. Simon, K. N. Robertson, P. L. DeRoy, A. A. Yadav, E. R. Johnson, M. Stradiotto, *Nickel-Catalyzed N-Arylation of Sulfinamides: A Comparative Study versus Analogous Sulfonamide Cross-Couplings.* Organometallics (2023).  [link](https://doi.org/10.1021/acs.organomet.2c00545)
 
