@@ -19,7 +19,7 @@ on the theoretical description of bulk metals.* Phys. Rev. B **107**,
 
     **2022**
 
-1. M. DeJong, A. J. Price, E. Mårsell, G. Tom, G. D. Nguygen, E. R. Johnson, and S. A. Burke, *Small Molecule Binding to Surface-Supported Single-Site Transition-Metal Reaction Centres.* Nat. Comm. **13**, 1-10 (2022). [link](https://doi.org/10.1038/s41467-022-35193-6)
+1. M. DeJong, A. J. Price, E. Mårsell, G. Tom, G. D. Nguygen, E. R. Johnson, and S. A. Burke, *Small Molecule Binding to Surface-Supported Single-Site Transition-Metal Reaction Centres.* Nat. Comm. **13**, 7407 (2022). [link](https://doi.org/10.1038/s41467-022-35193-6)
 
 1. R. A. Mayo, A. Otero de la Roza, and E. R. Johnson, *Development and assessment of an improved powder-diffraction-based method for molecular crystal structure similarity.* CrystEngComm. **24**, 8326-8338 (2022). [link](https://doi.org/10.1039/D2CE01080A)
 
