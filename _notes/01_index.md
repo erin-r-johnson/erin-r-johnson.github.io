@@ -24,6 +24,11 @@ Notes: [chem5301-notes.pdf](/downloads/chem5301-notes.pdf)
 Tutorial: [chem5301-tutorial.pdf](/downloads/chem5301-tutorial.pdf)
 
 
+**CHEM 6353: Density-Functional Theory**
+
+Notes: [chem6353-notes.pdf](/downloads/chem6353-notes.pdf)
+
+
 **Bonus Content**
 
 An *opinionated* introduction to density-functional theory for experimentalists:
