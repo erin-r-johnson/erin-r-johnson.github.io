@@ -17,6 +17,8 @@ on the theoretical description of bulk metals.* Phys. Rev. B **107**,
 
 1. A. J. A. Price, A. Otero de la Roza, and E. R. Johnson, *XDM-corrected hybrid DFT with numerical atomic orbitals predicts molecular crystal energetics with unprecedented accuracy.* Chem. Sci. **14**, 1252-1262 (2023). [link](https://doi.org/10.1039/D2SC05997E)
 
+1. K. R. Bryenton, A. A. Adeleke, S. G. Dale, and E. R. Johnson, *Delocalization Error: The Greatest Outstanding Challenge in Density-Functional Theory.* Wiley Interdiscip. Rev. Comput. Mol. Sci. **13**, e1631 (2023). [link](https://doi.org/10.1002/wcms.1631)
+
     **2022**
 
 1. M. DeJong, A. J. Price, E. Mårsell, G. Tom, G. D. Nguygen, E. R. Johnson, and S. A. Burke, *Small Molecule Binding to Surface-Supported Single-Site Transition-Metal Reaction Centres.* Nat. Comm. **13**, 7407 (2022). [link](https://doi.org/10.1038/s41467-022-35193-6)
@@ -28,8 +30,6 @@ on the theoretical description of bulk metals.* Phys. Rev. B **107**,
 1. A. M. Teale, T. Helgaker, A. Savin *et al.* *DFT Exchange: Sharing Perspectives on the Workhorse of Quantum Chemistry and Materials Science.* Phys. Chem. Chem. Phys. **24**, 28700-28781 (2022). [link](https://doi.org/10.1039/D2CP02827A)
 
 1. N. J. Roberts, E. R. Johnson, S. S. Chitnis, *Dispersion interactions provide significant stabilization of fragile bonds within the naphthalenediamine ligand environment.* Organometallics. **41**, 2180-2187 (2022). [link](https://doi.org/10.1021/acs.organomet.2c00268)
-
-1. K. R. Bryenton, A. A. Adeleke, S. G. Dale, and E. R. Johnson, *Delocalization Error: The Greatest Outstanding Challenge in Density-Functional Theory.* Wiley Interdiscip. Rev. Comput. Mol. Sci. e1631 (2022). [link](https://doi.org/10.1002/wcms.1631)
 
 1. J. A. Weatherby, A. F. Rumson, A. J. A. Price, A. Otero de la Roza, E. R. Johnson, *A Density-Functional Benchmark of Vibrational Free-Energy Corrections for Molecular Crystal Polymorphism.* J. Chem. Phys. **156**, 114108 (2022). [link](https://doi.org/10.1063/5.0083082)
 
