@@ -8,6 +8,7 @@ search: true
 ---
 
 
+* Congratulations to Sarah Clarke, who successfully defended her MSc thesis.
 * Congratulations to Alex Mayo, who was awarded a 2023 Ludo Frevel Crystallography Scholarship.
 * Adebayo Adeleke will be starting an exciting new job as a Research Scientist in Computational Chemistry at [Svante](https://svanteinc.com/) in February.
 * Congratulations to Nick Roberts, who was awarded the Canadian Society for Chemistry's 2022 Award for Undergraduate Research (AURIC) in Inorganic Chemistry.
