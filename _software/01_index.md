@@ -17,7 +17,7 @@ search: true
 
 Also, see here [vcpwdf-manual.pdf](/downloads/vcpwdf-manual.pdf) for a manual
 describing the use of our variable-cell powder difference (VC-PWDF) method
-within critic2, along with a script [vc-xpwdf-plot.sh](vc-xpwdf-plot.sh) for
+within critic2, along with a script [vc-xpwdf-plot.sh](/downloads/vc-xpwdf-plot.sh) for
 plotting overlays of simulated and experimental PXRD patterns.
 
 
