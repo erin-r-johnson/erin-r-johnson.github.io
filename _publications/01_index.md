@@ -9,6 +9,8 @@ search: true
 
 1. R. A. Mayo, K. M. Marczenko, E. R. Johnson, *Quantitative Matching of Crystal Structures to Experimental Powder Diffractograms.* Chem. Sci. (2023). [link](https://doi.org/10.1039/D3SC00168G)
 
+1. T. N. Phuc Tu, N. Rezajooei, E. R. Johnson, C. N. Rowley, *A neural network potential with rigorous treatment of long-range dispersion.* Digital Discovery (2023). [link](https://doi.org/10.1039/D2DD00150K)
+
 1. A. A. Adeleke, E. R. Johnson, *Effects of dispersion corrections
 on the theoretical description of bulk metals.* Phys. Rev. B **107**, 
 064101 (2023). [link](https://doi.org/10.1103/PhysRevB.107.064101)

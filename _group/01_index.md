@@ -21,9 +21,7 @@ Current Group
 Chemistry:
 * Alastair Price 
 * Alex Mayo
-* Sarah Clarke
 * Adrian Rumson
-* Nick Roberts
 
 Physics:
 * Kyle Bryenton
@@ -38,6 +36,7 @@ Post-docs:
 * Alberto Otero-de-la-Roza (PDF, 2011-2013)
 
 Graduate students:
+* Sarah Clarke (MSc, 2023)
 * Joseph Weatherby (MSc, 2022)
 * Fouad Kaadou (MSc, 2022)
 * Xibo "Fred" Feng (PhD, 2021)
@@ -48,6 +47,7 @@ Graduate students:
 * Joseph Dizon (MSc, 2014)
 
 Undergraduate students:
+* Nick Roberts (2023)
 * Grace Sparrow (2022)
 * Adrian Rumson (2022)
 * Sam Dudra (2020)
