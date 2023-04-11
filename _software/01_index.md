@@ -15,6 +15,11 @@ search: true
 * QTAIM analysis, including Bader charges and delocalization indices
 * much more
 
+Also, see here [vcpwdf-manual.pdf](/downloads/vcpwdf-manual.pdf) for a manual
+describing the use of our variable-cell powder difference (VC-PWDF) method
+within critic2, along with a script [vc-xpwdf-plot.sh](vc-xpwdf-plot.sh) for
+plotting overlays of simulated and experimental PXRD patterns.
+
 
 [**postg**](https://github.com/aoterodelaroza/postg) -- Allows use of the XDM dispersion model with the Gaussian quantum-chemistry package.
 
