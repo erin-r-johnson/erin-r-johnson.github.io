@@ -15,7 +15,7 @@ search: true
 * QTAIM analysis, including Bader charges and delocalization indices
 * much more
 
-Also, see here [vcpwdf-manual.pdf](/downloads/vcpwdf-manual.pdf) for a manual
+Also, see here [VC-PWDF_Manual-v2.pdf](/downloads/VC-PWDF_Manual-v2.pdf) for a manual
 describing the use of our variable-cell powder difference (VC-PWDF) method
 within critic2, along with a script [vc-xpwdf-plot.sh](/downloads/vc-xpwdf-plot.sh) for
 plotting overlays of simulated and experimental PXRD patterns.
