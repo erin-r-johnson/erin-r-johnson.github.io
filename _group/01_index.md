@@ -19,7 +19,6 @@ Emeritus Prof. Axel D. Becke
 Current Group
 
 Chemistry:
-* Alastair Price 
 * Alex Mayo
 * Adrian Rumson
 
@@ -36,6 +35,7 @@ Post-docs:
 * Alberto Otero-de-la-Roza (PDF, 2011-2013)
 
 Graduate students:
+* Alastair Price (PhD, 2023)
 * Sarah Clarke (MSc, 2023)
 * Joseph Weatherby (MSc, 2022)
 * Fouad Kaadou (MSc, 2022)

@@ -8,6 +8,7 @@ search: true
 ---
 
 
+* Congratulations to Alastair Price, who successfully defended his PhD thesis.
 * Congratulations to Sarah Clarke, who successfully defended her MSc thesis.
 * Congratulations to Alex Mayo, who was awarded a 2023 Ludo Frevel Crystallography Scholarship.
 * Adebayo Adeleke will be starting an exciting new job as a Research Scientist in Computational Chemistry at [Svante](https://svanteinc.com/) in February.
