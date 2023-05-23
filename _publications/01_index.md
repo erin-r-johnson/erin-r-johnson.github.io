@@ -7,6 +7,8 @@ excerpt: >-
 search: true
 ---
 
+1. K. R. Bryenton, E. R. Johnson, *Many-body dispersion in model systems and the sensitivity of self-consistent screening.* J. Chem. Phys. **158** 204110 (2023). [link](https://doi.org/10.1063/5.0142465)
+
 1. R. A. Mayo, K. M. Marczenko, E. R. Johnson, *Quantitative Matching of Crystal Structures to Experimental Powder Diffractograms.* Chem. Sci. **14** 4777-4785 (2023). [link](https://doi.org/10.1039/D3SC00168G)
 
 1. T. N. Phuc Tu, N. Rezajooei, E. R. Johnson, C. N. Rowley, *A neural network potential with rigorous treatment of long-range dispersion.* Digital Discovery (2023). [link](https://doi.org/10.1039/D2DD00150K)
