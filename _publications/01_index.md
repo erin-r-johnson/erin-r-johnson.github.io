@@ -7,17 +7,17 @@ excerpt: >-
 search: true
 ---
 
-1. K. R. Bryenton, E. R. Johnson, *Many-body dispersion in model systems and the sensitivity of self-consistent screening.* J. Chem. Phys. **158** 204110 (2023). [link](https://doi.org/10.1063/5.0142465)
+1. M. Rafiee Diznab, E. R. Johnson, J. Maassen, *Periodic trends in the structural, electronic and transport properties of electrenes.* Nanoscale. (2023). [link](https://doi.org/10.1039/D3NR00304C)
 
-1. R. A. Mayo, K. M. Marczenko, E. R. Johnson, *Quantitative Matching of Crystal Structures to Experimental Powder Diffractograms.* Chem. Sci. **14** 4777-4785 (2023). [link](https://doi.org/10.1039/D3SC00168G)
+1. K. R. Bryenton, E. R. Johnson, *Many-body dispersion in model systems and the sensitivity of self-consistent screening.* J. Chem. Phys. **158**, 204110 (2023). [link](https://doi.org/10.1063/5.0142465)
 
-1. T. N. Phuc Tu, N. Rezajooei, E. R. Johnson, C. N. Rowley, *A neural network potential with rigorous treatment of long-range dispersion.* Digital Discovery (2023). [link](https://doi.org/10.1039/D2DD00150K)
+1. R. A. Mayo, K. M. Marczenko, E. R. Johnson, *Quantitative Matching of Crystal Structures to Experimental Powder Diffractograms.* Chem. Sci. **14**, 4777-4785 (2023). [link](https://doi.org/10.1039/D3SC00168G)
 
-1. A. A. Adeleke, E. R. Johnson, *Effects of dispersion corrections
-on the theoretical description of bulk metals.* Phys. Rev. B **107**, 
-064101 (2023). [link](https://doi.org/10.1103/PhysRevB.107.064101)
+1. T. N. Phuc Tu, N. Rezajooei, E. R. Johnson, C. N. Rowley, *A neural network potential with rigorous treatment of long-range dispersion.* Digital Discovery **2**, 718-727 (2023). [link](https://doi.org/10.1039/D2DD00150K)
 
-1. A. J. A. Price, R. A. Mayo, A. Otero de la Roza, E. R. Johnson, *Accurate and efficient polymorph energy ranking with XDM-corrected hybrid DFT.*  CrystEngComm **25** 953-960 (2023). [link](https://doi.org/10.1039/D2CE01594C)
+1. A. A. Adeleke, E. R. Johnson, *Effects of dispersion corrections on the theoretical description of bulk metals.* Phys. Rev. B **107**, 064101 (2023). [link](https://doi.org/10.1103/PhysRevB.107.064101)
+
+1. A. J. A. Price, R. A. Mayo, A. Otero de la Roza, E. R. Johnson, *Accurate and efficient polymorph energy ranking with XDM-corrected hybrid DFT.*  CrystEngComm **25**, 953-960 (2023). [link](https://doi.org/10.1039/D2CE01594C)
 
 1. C. M. Simon, K. N. Robertson, P. L. DeRoy, A. A. Yadav, E. R. Johnson, M. Stradiotto, *Nickel-Catalyzed N-Arylation of Sulfinamides: A Comparative Study versus Analogous Sulfonamide Cross-Couplings.* Organometallics (2023).  [link](https://doi.org/10.1021/acs.organomet.2c00545)
 
