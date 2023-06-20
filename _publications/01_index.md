@@ -7,7 +7,7 @@ excerpt: >-
 search: true
 ---
 
-1. M. Rafiee Diznab, E. R. Johnson, J. Maassen, *Periodic trends in the structural, electronic and transport properties of electrenes.* Nanoscale. (2023). [link](https://doi.org/10.1039/D3NR00304C)
+1. M. Rafiee Diznab, E. R. Johnson, J. Maassen, *Periodic trends in the structural, electronic, and transport properties of electrenes.* Nanoscale. (2023). [link](https://doi.org/10.1039/D3NR00304C)
 
 1. K. R. Bryenton, E. R. Johnson, *Many-body dispersion in model systems and the sensitivity of self-consistent screening.* J. Chem. Phys. **158**, 204110 (2023). [link](https://doi.org/10.1063/5.0142465)
 
@@ -188,7 +188,7 @@ search: true
 
 1. Z. Ye, A. Otero de la Roza, E. R. Johnson, and A. Martini, *Oscillatory Motion in Layered Materials: Graphene, Boron Nitride, and Molybdenum Disulfide.* Nanotechnology **26**, 165701 (2015). [link](https://doi.org/10.1088/0957-4484/26/16/165701)
 
-1. M. Warehime, E. R. Johnson, and J. Klos, *New XDM-Corrected Potential Energy Surfaces for Ar-NO(X<sup>2<\sup>Π): A Comparison with CCSD(T) Calculations and Experiments.* J. Chem. Phys. **142**, 024302 (2015). [link](https://doi.org/10.1063/1.4905252)
+1. M. Warehime, E. R. Johnson, and J. Klos, *New XDM-Corrected Potential Energy Surfaces for Ar-NO(X<sup>2</sup>Π): A Comparison with CCSD(T) Calculations and Experiments.* J. Chem. Phys. **142**, 024302 (2015). [link](https://doi.org/10.1063/1.4905252)
 
 1. M. S. Christian, S. R. Whittleton, A. Otero de la Roza, and E. R. Johnson, *Chemical Bonding and Surface Interactions in Bi<sub>2</sub>Se<sub>3</sub> and Bi<sub>4</sub>Se<sub>3</sub>.*  Comp. Theor. Chem. **1053**, 238-244 (2015). [link](https://doi.org/10.1016/j.comptc.2014.09.023)
 
