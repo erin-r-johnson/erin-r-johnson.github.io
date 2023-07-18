@@ -7,6 +7,8 @@ excerpt: >-
 search: true
 ---
 
+1. S. Ataie, S. L. Dudra, E. R. Johnson, R. T. Baker *Selective Cobalt(II)–SNS Dithiolate Complex-Catalyzed Bifunctional Hydroboration of Aldehydes: Kinetics and Mechanistic Studies* ACS Catal. **13**, 10076–10084 (2023). [link](https://doi.org/10.1021/acscatal.3c02318)
+
 1. M. Rafiee Diznab, E. R. Johnson, J. Maassen, *Periodic trends in the structural, electronic, and transport properties of electrenes.* Nanoscale. (2023). [link](https://doi.org/10.1039/D3NR00304C)
 
 1. K. R. Bryenton, E. R. Johnson, *Many-body dispersion in model systems and the sensitivity of self-consistent screening.* J. Chem. Phys. **158**, 204110 (2023). [link](https://doi.org/10.1063/5.0142465)
