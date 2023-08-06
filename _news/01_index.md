@@ -8,6 +8,7 @@ search: true
 ---
 
 
+* Congratulations to Alex Mayo, who successfully defended his PhD thesis.
 * Congratulations to Alex Mayo, who received a CrystEngComm sponsored award for the best poster at the CECAM workshop on Crystal Structure Prediction in Materials Discovery.
 * Congratulations to Sarah Clarke, who started a new job as an Advanced Digital Skills Instructor at [ACENET](https://ace-net.ca/team.html).
 * Congratulations to Alastair Price, who successfully defended his PhD thesis.
