@@ -19,8 +19,8 @@ Emeritus Prof. Axel D. Becke
 Current Group
 
 Chemistry:
-* Alex Mayo
 * Adrian Rumson
+* Grace Sparrow
 
 Physics:
 * Kyle Bryenton
@@ -35,6 +35,7 @@ Post-docs:
 * Alberto Otero-de-la-Roza (PDF, 2011-2013)
 
 Graduate students:
+* Alex Mayo (PhD, 2023)
 * Alastair Price (PhD, 2023)
 * Sarah Clarke (MSc, 2023)
 * Joseph Weatherby (MSc, 2022)
