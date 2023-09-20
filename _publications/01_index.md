@@ -7,7 +7,7 @@ excerpt: >-
 search: true
 ---
 
-1. S. Ataie, S. L. Dudra, E. R. Johnson, R. T. Baker *Selective Cobalt(II)–SNS Dithiolate Complex-Catalyzed Bifunctional Hydroboration of Aldehydes: Kinetics and Mechanistic Studies.* ACS Catal. **13**, 10076–10084 (2023). [link](https://doi.org/10.1021/acscatal.3c02318)
+1. S. Ataie, S. L. Dudra, E. R. Johnson, R. T. Baker *Selective Cobalt(II)–SNS Dithiolate Complex-Catalyzed Bifunctional Hydroboration of Aldehydes: Kinetics and Mechanistic Studies.* ACS Catal. **13**, 10076-10084 (2023). [link](https://doi.org/10.1021/acscatal.3c02318)
 
 1. M. Rafiee Diznab, E. R. Johnson, J. Maassen, *Periodic trends in the structural, electronic, and transport properties of electrenes.* Nanoscale. **15**, 12038-12047 (2023). [link](https://doi.org/10.1039/D3NR00304C)
 
@@ -21,7 +21,7 @@ search: true
 
 1. A. J. A. Price, R. A. Mayo, A. Otero de la Roza, E. R. Johnson, *Accurate and efficient polymorph energy ranking with XDM-corrected hybrid DFT.*  CrystEngComm **25**, 953-960 (2023). [link](https://doi.org/10.1039/D2CE01594C)
 
-1. C. M. Simon, K. N. Robertson, P. L. DeRoy, A. A. Yadav, E. R. Johnson, M. Stradiotto, *Nickel-Catalyzed N-Arylation of Sulfinamides: A Comparative Study versus Analogous Sulfonamide Cross-Couplings.* Organometallics (2023).  [link](https://doi.org/10.1021/acs.organomet.2c00545)
+1. C. M. Simon, K. N. Robertson, P. L. DeRoy, A. A. Yadav, E. R. Johnson, M. Stradiotto, *Nickel-Catalyzed N-Arylation of Sulfinamides: A Comparative Study versus Analogous Sulfonamide Cross-Couplings.* Organometallics **42**, 1704-1710 (2023).  [link](https://doi.org/10.1021/acs.organomet.2c00545)
 
 1. A. J. A. Price, A. Otero de la Roza, E. R. Johnson, *XDM-corrected hybrid DFT with numerical atomic orbitals predicts molecular crystal energetics with unprecedented accuracy.* Chem. Sci. **14**, 1252-1262 (2023). [link](https://doi.org/10.1039/D2SC05997E)
 
