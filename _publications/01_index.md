@@ -7,7 +7,11 @@ excerpt: >-
 search: true
 ---
 
-1. S. Ataie, S. L. Dudra, E. R. Johnson, R. T. Baker *Selective Cobalt(II)–SNS Dithiolate Complex-Catalyzed Bifunctional Hydroboration of Aldehydes: Kinetics and Mechanistic Studies.* ACS Catal. **13**, 10076-10084 (2023). [link](https://doi.org/10.1021/acscatal.3c02318)
+1. C. J. Nickerson, K. R. Bryenton, A. J. A. Price, E. R. Johnson, 
+*Comparison of Density-Functional Theory Dispersion Corrections for the DES15K Database*
+J. Phys. Chem. A (2023). [link](https://doi.org/10.1021/acs.jpca.3c04332)
+
+1. S. Ataie, S. L. Dudra, E. R. Johnson, R. T. Baker, *Selective Cobalt(II)–SNS Dithiolate Complex-Catalyzed Bifunctional Hydroboration of Aldehydes: Kinetics and Mechanistic Studies.* ACS Catal. **13**, 10076-10084 (2023). [link](https://doi.org/10.1021/acscatal.3c02318)
 
 1. M. Rafiee Diznab, E. R. Johnson, J. Maassen, *Periodic trends in the structural, electronic, and transport properties of electrenes.* Nanoscale. **15**, 12038-12047 (2023). [link](https://doi.org/10.1039/D3NR00304C)
 
