@@ -11,7 +11,7 @@ search: true
 
 1. J. A. Schmidt, E. H. Wolpert, G. M. Sparrow, E. R. Johnson, K. E. Jelfs,
 *The effect of [n]-helicene length on crystal packing.* Cryst. Growth Des. (2023).
-[link]((https://doi.org/10.1021/acs.cgd.3c00964)
+[link](https://doi.org/10.1021/acs.cgd.3c00964)
 
 1. C. J. Nickerson, K. R. Bryenton, A. J. A. Price, E. R. Johnson, *Comparison of Density-Functional Theory Dispersion Corrections for the DES15K Database* J. Phys. Chem. A **127**, 8712-8722 (2023). [link](https://doi.org/10.1021/acs.jpca.3c04332)
 
