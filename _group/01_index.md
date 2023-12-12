@@ -7,9 +7,9 @@ excerpt: >-
 search: true
 ---
 
-<figure style="width: 50%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/group-photo-2022.jpg" alt="The group, fall 2022">
-  <figcaption style="text-align: center"> The group, fall 2022. Back row: Kyle, Adebayo. Next from back row: Adrian, Cameron. Next from front row: Nick, Alex, Erin. Front row: Sarah, Alastair.</figcaption>
+<figure style="width: 75%" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/group-2023.png" alt="The group, fall 2023">
+  <figcaption style="text-align: center"> The group, fall 2015. Left to right: Adrian, Kyle, Erin, Cameron, Grace.</figcaption>
 </figure>
 
 Prof. [Erin R. Johnson](https://erin-r-johnson.github.io/contact/)
@@ -58,6 +58,11 @@ Undergraduate students:
 * Mike Murray (2017)
 * Robert Bailey (2014)
 * Joel Mallory (2013)
+
+<figure style="width: 50%" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/group-photo-2022.jpg" alt="The group, fall 2022">
+  <figcaption style="text-align: center"> The group, fall 2022. Back row: Kyle, Adebayo. Next from back row: Adrian, Cameron. Next from front row: Nick, Alex, Erin. Front row: Sarah, Alastair.</figcaption>
+</figure>
 
 <figure style="width: 75%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/group-fall2019.jpg" alt="The group, fall 2019">

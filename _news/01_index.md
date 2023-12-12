@@ -8,6 +8,7 @@ search: true
 ---
 
 
+* Congratulations to Adrian Rumson, who was awarded the 2023 Philip Desmond Pacey Post-Graduate Scholarship in Physical Chemistry.
 * Congratulations to Alex Mayo, who successfully defended his PhD thesis.
 * Congratulations to Alex Mayo, who received a CrystEngComm sponsored award for the best poster at the CECAM workshop on Crystal Structure Prediction in Materials Discovery.
 * Congratulations to Sarah Clarke, who started a new job as an Advanced Digital Skills Instructor at [ACENET](https://ace-net.ca/team.html).
