@@ -9,7 +9,7 @@ search: true
 
 <figure style="width: 75%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/group-2023.png" alt="The group, fall 2023">
-  <figcaption style="text-align: center"> The group, fall 2015. Left to right: Adrian, Kyle, Erin, Cameron, Grace.</figcaption>
+  <figcaption style="text-align: center"> The group, fall 2023. Left to right: Adrian, Kyle, Erin, Cameron, Grace.</figcaption>
 </figure>
 
 Prof. [Erin R. Johnson](https://erin-r-johnson.github.io/contact/)
