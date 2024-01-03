@@ -7,10 +7,15 @@ excerpt: >-
 search: true
 ---
 
+1. K. M. Morrison, N. J. Roberts, S. L. Dudra, J. P. Tassone, M. J. Ferguson, E. R. Johnson, M. Stradiotto,
+*Nickel-Catalyzed O-Arylation of Primary or Secondary Aliphatic Alcohols with
+(Hetero) aryl Chlorides: A Comparison of Ni (I) and Ni (II) Precatalysts* J. Org. Chem. (2023) 
+[link](https://doi.org/10.1021/acs.joc.3c01584)
+
 1. A. F. Rumson, E. R. Johnson, *Low Thermal Expansion of Layered Electrides Predicted by DFT* J. Chem. Phys. **159**, 174701 (2023). [link](https://doi.org/10.1063/5.0171959)
 
 1. J. A. Schmidt, E. H. Wolpert, G. M. Sparrow, E. R. Johnson, K. E. Jelfs,
-*The effect of [n]-helicene length on crystal packing.* Cryst. Growth Des. (2023).
+*The effect of [n]-helicene length on crystal packing.* Cryst. Growth Des. **23**, 8909-8917 (2023).
 [link](https://doi.org/10.1021/acs.cgd.3c00964)
 
 1. C. J. Nickerson, K. R. Bryenton, A. J. A. Price, E. R. Johnson, *Comparison of Density-Functional Theory Dispersion Corrections for the DES15K Database* J. Phys. Chem. A **127**, 8712-8722 (2023). [link](https://doi.org/10.1021/acs.jpca.3c04332)
