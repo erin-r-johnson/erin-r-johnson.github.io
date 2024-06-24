@@ -7,10 +7,20 @@ excerpt: >-
 search: true
 ---
 
-1. K. M. Morrison, N. J. Roberts, S. L. Dudra, J. P. Tassone, M. J. Ferguson, E. R. Johnson, M. Stradiotto,
-*Nickel-Catalyzed O-Arylation of Primary or Secondary Aliphatic Alcohols with
-(Hetero) aryl Chlorides: A Comparison of Ni (I) and Ni (II) Precatalysts* J. Org. Chem. (2023) 
-[link](https://doi.org/10.1021/acs.joc.3c01584)
+1. K. L. Branch, E. R. Johnson, E. M. Nichols, *Porphyrin Aggregation under
+Standard Homogeneous Conditions Inhibits Electrocatalysis: A Case Study
+on CO<sub>2</sub> Reduction* ACS Central Sci. (2024).
+[link](https://doi.org/10.1021/acscentsci.4c00121)
+
+1. M. Rafiee Diznab, A. F. Rumson, J. Maassen, E. R. Johnson, *Designing Barrier-Free
+Metal/MoS<sub>2</sub> Contacts through Electrene Insertion.* Phys. Chem. Chem.
+Phys. **26**, 16947-16954 (2024). [link](https://doi.org/10.1039/D3CP06112D)
+
+1. K. M. Morrison, N. J. Roberts, S. L. Dudra, J. P. Tassone, M. J.
+Ferguson, E. R. Johnson, M. Stradiotto, *Nickel-Catalyzed O-Arylation
+of Primary or Secondary Aliphatic Alcohols with (Hetero) aryl
+Chlorides: A Comparison of Ni (I) and Ni (II) Precatalysts.* J. Org.
+Chem. (2023). [link](https://doi.org/10.1021/acs.joc.3c01584)
 
 1. A. F. Rumson, E. R. Johnson, *Low Thermal Expansion of Layered Electrides Predicted by DFT* J. Chem. Phys. **159**, 174701 (2023). [link](https://doi.org/10.1063/5.0171959)
 
@@ -18,7 +28,9 @@ search: true
 *The effect of [n]-helicene length on crystal packing.* Cryst. Growth Des. **23**, 8909-8917 (2023).
 [link](https://doi.org/10.1021/acs.cgd.3c00964)
 
-1. C. J. Nickerson, K. R. Bryenton, A. J. A. Price, E. R. Johnson, *Comparison of Density-Functional Theory Dispersion Corrections for the DES15K Database* J. Phys. Chem. A **127**, 8712-8722 (2023). [link](https://doi.org/10.1021/acs.jpca.3c04332)
+1. C. J. Nickerson, K. R. Bryenton, A. J. A. Price, E. R. Johnson,
+*Comparison of Density-Functional Theory Dispersion Corrections for the
+DES15K Database.* J. Phys. Chem. A **127**, 8712-8722 (2023). [link](https://doi.org/10.1021/acs.jpca.3c04332)
 
 1. S. Ataie, S. L. Dudra, E. R. Johnson, R. T. Baker, *Selective Cobalt(II)–SNS Dithiolate Complex-Catalyzed Bifunctional Hydroboration of Aldehydes: Kinetics and Mechanistic Studies.* ACS Catal. **13**, 10076-10084 (2023). [link](https://doi.org/10.1021/acscatal.3c02318)
 
