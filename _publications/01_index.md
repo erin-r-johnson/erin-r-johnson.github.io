@@ -7,6 +7,11 @@ excerpt: >-
 search: true
 ---
 
+1. K. Panchagnula, D. Graf, E. R. Johnson, A. J. W. Thom, *Targeting
+spectroscopic accuracy for dispersion bound systems from ab initio
+techniques: Translational eigenstates of Ne@C<sub>70</sub>* J. Chem.
+Phys. **161**, 054308 (2024). [link](https://doi.org/10.1063/5.0223298)
+
 1. K. L. Branch, E. R. Johnson, E. M. Nichols, *Porphyrin Aggregation under
 Standard Homogeneous Conditions Inhibits Electrocatalysis: A Case Study
 on CO<sub>2</sub> Reduction* ACS Central Sci. (2024).
@@ -15,6 +20,8 @@ on CO<sub>2</sub> Reduction* ACS Central Sci. (2024).
 1. M. Rafiee Diznab, A. F. Rumson, J. Maassen, E. R. Johnson, *Designing Barrier-Free
 Metal/MoS<sub>2</sub> Contacts through Electrene Insertion.* Phys. Chem. Chem.
 Phys. **26**, 16947-16954 (2024). [link](https://doi.org/10.1039/D3CP06112D)
+
+    **2023**
 
 1. K. M. Morrison, N. J. Roberts, S. L. Dudra, J. P. Tassone, M. J.
 Ferguson, E. R. Johnson, M. Stradiotto, *Nickel-Catalyzed O-Arylation
