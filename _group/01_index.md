@@ -21,10 +21,12 @@ Current Group
 Chemistry:
 * Adrian Rumson
 * Grace Sparrow
+* Laura Rizzo
 
 Physics:
 * Kyle Bryenton
 * Cameron Nickerson
+* Mohammad Rafiee Diznab (co-supervised with Jesse Maassen)
 
 Group Alumni
 

@@ -12,6 +12,7 @@ search: true
   contributed talk at the 30th Canadian Symposium on Theoretical and
   Computational Chemistry (CSTCC) in Halifax.
 * Congratulations to Kyle Bryenton, who was awarded the 2024 Mary Margeret Werner Graduate Scholarship.
+* Congratulations to Kyle Bryenton, who was awarded the IBM-Zerner Graduate Student Award at the 63rd Sanibel Symposium.
 * Congratulations to Adrian Rumson, who was awarded the 2023 Philip Desmond Pacey Post-Graduate Scholarship in Physical Chemistry.
 * Congratulations to Alex Mayo, who successfully defended his PhD thesis.
 * Congratulations to Alex Mayo, who received a CrystEngComm sponsored award for the best poster at the CECAM workshop on Crystal Structure Prediction in Materials Discovery.

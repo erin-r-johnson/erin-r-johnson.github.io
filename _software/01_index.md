@@ -50,16 +50,26 @@ XDM damping parameters for use with selected electronic structure packages can b
 
 | Functional | Basis | a<sub>1</sub> | a<sub>2</sub> (Å) |
 |------------|-------|---------------|-------------------|
-| PBE        | light |     0.5312    |      2.3270       |
-| B86bPBE    | light |     0.8219    |      1.2069       |
-| PBE0       | light |     0.3302    |      3.0042       |
-| B86bPBE-25 | light |     0.5235    |      2.1995       |
-| B86bPBE-50 | light |     0.0831    |      3.7362       | 
-| PBE        | tight |     0.6438    |      1.8533       |
-| B86bPBE    | tight |     0.8976    |      0.8518       |
-| PBE0       | tight |     0.5053    |      2.2527       |
-| B86bPBE-25 | tight |     0.6546    |      1.6097       |
-| B86bPBE-50 | tight |     0.4887    |      2.1855       |
+| PBE        | lightdense | 0.3308 | 2.9589 |
+| HSE06      | lightdense | 0.1652 | 3.5942 |
+| PBE0       | lightdense | 0.1852 | 3.5044 |
+| B86bPBE    | lightdense | 0.6913 | 1.5747 |
+| B86bPBE-25 | lightdense | 0.4639 | 2.4079 |
+| B86bPBE-50 | lightdense | 0.0565 | 3.9271 |
+|------------|-------|---------------|-------------------|
+| PBE        | intermediate | 0.2880 | 3.0439 |
+| HSE06      | intermediate | 0.0362 | 3.9392 |
+| PBE0       | intermediate | 0.0288 | 3.9293 |
+| B86bPBE    | intermediate | 0.5575 | 1.9272 |
+| B86bPBE-25 | intermediate | 0.1624 | 3.2667 |
+| B86bPBE-50 | intermediate | 0.0000 | 4.0214 |
+|------------|-------|---------------|-------------------|
+| PBE        | tight | 0.5120 | 2.2592 |
+| HSE06      | tight | 0.4521 | 2.4806 |
+| PBE0       | tight | 0.4710 | 2.3857 |
+| B86bPBE    | tight | 0.8983 | 0.7866 |
+| B86bPBE-25 | tight | 0.7268 | 1.3825 |
+| B86bPBE-50 | tight | 0.5898 | 1.9070 |
 
 
 **Gaussian**
