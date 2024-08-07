@@ -7,6 +7,10 @@ excerpt: >-
 search: true
 ---
 
+1. G. M. Sparrow, R. A. Mayo, E. R. Johnson, *Matching ROY Crystal
+Structures to High-Throughput PXRD* CrystEngComm (2024).
+[link](https://doi.org/10.1039/D4CE00700J)
+
 1. K. Panchagnula, D. Graf, E. R. Johnson, A. J. W. Thom, *Targeting
 spectroscopic accuracy for dispersion bound systems from ab initio
 techniques: Translational eigenstates of Ne@C<sub>70</sub>* J. Chem.
@@ -14,7 +18,7 @@ Phys. **161**, 054308 (2024). [link](https://doi.org/10.1063/5.0223298)
 
 1. K. L. Branch, E. R. Johnson, E. M. Nichols, *Porphyrin Aggregation under
 Standard Homogeneous Conditions Inhibits Electrocatalysis: A Case Study
-on CO<sub>2</sub> Reduction* ACS Central Sci. (2024).
+on CO<sub>2</sub> Reduction* ACS Central Sci. **10**, 1251-1261 (2024).
 [link](https://doi.org/10.1021/acscentsci.4c00121)
 
 1. M. Rafiee Diznab, A. F. Rumson, J. Maassen, E. R. Johnson, *Designing Barrier-Free
@@ -29,11 +33,13 @@ of Primary or Secondary Aliphatic Alcohols with (Hetero) aryl
 Chlorides: A Comparison of Ni (I) and Ni (II) Precatalysts.* J. Org.
 Chem. (2023). [link](https://doi.org/10.1021/acs.joc.3c01584)
 
-1. A. F. Rumson, E. R. Johnson, *Low Thermal Expansion of Layered Electrides Predicted by DFT* J. Chem. Phys. **159**, 174701 (2023). [link](https://doi.org/10.1063/5.0171959)
+1. A. F. Rumson, E. R. Johnson, *Low Thermal Expansion of Layered
+Electrides Predicted by DFT* J. Chem. Phys. **159**, 174701 (2023).
+[link](https://doi.org/10.1063/5.0171959)
 
 1. J. A. Schmidt, E. H. Wolpert, G. M. Sparrow, E. R. Johnson, K. E. Jelfs,
-*The effect of [n]-helicene length on crystal packing.* Cryst. Growth Des. **23**, 8909-8917 (2023).
-[link](https://doi.org/10.1021/acs.cgd.3c00964)
+*The effect of [n]-helicene length on crystal packing.* Cryst. Growth
+Des. **23**, 8909-8917 (2023). [link](https://doi.org/10.1021/acs.cgd.3c00964)
 
 1. C. J. Nickerson, K. R. Bryenton, A. J. A. Price, E. R. Johnson,
 *Comparison of Density-Functional Theory Dispersion Corrections for the
