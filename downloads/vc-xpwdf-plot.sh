@@ -22,8 +22,8 @@ beta=$8
 gamma=$9
 
 # basic processing of the PXRD pattern
-minI=$(sort -n -k2 $pxrd | head -n 1 | awk '{print$2}')
-maxI=$(sort -nr -k2 $pxrd | head -n 1 | awk '{print$2}')
+minI=$(sort -g -k2 $pxrd | head -n 1 | awk '{print$2}')
+maxI=$(sort -gr -k2 $pxrd | head -n 1 | awk '{print$2}')
 pxrd_bc=${pxrd%.xy}-bc.xy
 awk -v min="$minI" -v max="$maxI" '{print $1, (($2-min)/((max-min)/100))}' $pxrd > $pxrd_bc
 

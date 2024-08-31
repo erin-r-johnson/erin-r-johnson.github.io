@@ -7,18 +7,30 @@ excerpt: >-
 search: true
 ---
 
+1. N. T. P. Tu, S. Williamson, E. R. Johnson, and C. N. Rowley,
+*Modeling Intermolecular Interactions With XDM Dispersion Corrections
+to Neural Network Potentials.* J. Phys. Chem. B (2024).
+[link](http://doi.org/10.1021/acs.jpcb.4c02882)
+
+1. A. Alkas, J. M. Kofsky, E. C. Sullivan, D. Nebel, K. N. Robertson,
+C. J. Capicciotti, D. L. Jakeman, E. R. Johnson, A. Thompson,
+*BODIPYs alpha-appended with distyryl-linked aryl bisboronic acids:
+single-step cell staining and turn-on fluorescence binding with
+D-glucose.* Org. Biomol. Chem. (2024).
+[link](http://doi.org/10.1039/D4OB01013B)
+
 1. G. M. Sparrow, R. A. Mayo, E. R. Johnson, *Matching ROY Crystal
-Structures to High-Throughput PXRD* CrystEngComm (2024).
+Structures to High-Throughput PXRD.* CrystEngComm (2024).
 [link](https://doi.org/10.1039/D4CE00700J)
 
 1. K. Panchagnula, D. Graf, E. R. Johnson, A. J. W. Thom, *Targeting
 spectroscopic accuracy for dispersion bound systems from ab initio
-techniques: Translational eigenstates of Ne@C<sub>70</sub>* J. Chem.
+techniques: Translational eigenstates of Ne@C<sub>70</sub>.* J. Chem.
 Phys. **161**, 054308 (2024). [link](https://doi.org/10.1063/5.0223298)
 
 1. K. L. Branch, E. R. Johnson, E. M. Nichols, *Porphyrin Aggregation under
 Standard Homogeneous Conditions Inhibits Electrocatalysis: A Case Study
-on CO<sub>2</sub> Reduction* ACS Central Sci. **10**, 1251-1261 (2024).
+on CO<sub>2</sub> Reduction.* ACS Central Sci. **10**, 1251-1261 (2024).
 [link](https://doi.org/10.1021/acscentsci.4c00121)
 
 1. M. Rafiee Diznab, A. F. Rumson, J. Maassen, E. R. Johnson, *Designing Barrier-Free
