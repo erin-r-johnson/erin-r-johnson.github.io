@@ -7,10 +7,8 @@ excerpt: >-
 search: true
 ---
 
-
-* Congratulations to Kyle Bryenton, who was awarded the best
-  contributed talk at the 30th Canadian Symposium on Theoretical and
-  Computational Chemistry (CSTCC) in Halifax.
+* Congratulations to Mohammad Rafiee Diznab, who was awarded one of the top 10 best student presenter awards at TECHCON 2024.
+* Congratulations to Kyle Bryenton, who was awarded the best contributed talk at the 30th Canadian Symposium on Theoretical and Computational Chemistry (CSTCC) in Halifax.
 * Congratulations to Kyle Bryenton, who was awarded the 2024 Mary Margeret Werner Graduate Scholarship.
 * Congratulations to Kyle Bryenton, who was awarded the IBM-Zerner Graduate Student Award at the 63rd Sanibel Symposium.
 * Congratulations to Adrian Rumson, who was awarded the 2023 Philip Desmond Pacey Post-Graduate Scholarship in Physical Chemistry.

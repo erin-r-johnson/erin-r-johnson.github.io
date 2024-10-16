@@ -7,6 +7,22 @@ excerpt: >-
 search: true
 ---
 
+1. R. A. Mayo, A. J. A. Price, A. Otero-de-la-Roza, E. R. Johnson,
+*Assessment of the exchange-hole dipole moment dispersion correction for the
+energy ranking stage of the seventh crystal structure prediction blind
+test.* Acta Cryst. B **80**, (2024).
+[link](http://doi.org/10.1107/S2052520624002774)
+
+1. L. M. Hunnisett, N. Francia, J. Nyman, *et al.* *The seventh blind
+test of crystal structure prediction: structure ranking methods.*
+Acta Cryst. B **80**, (2024).
+[link](http://doi.org/10.1107/S2052520624008679)
+
+1. L. M. Hunnisett, J. Nyman, N. Francia, *et al.* *The seventh blind
+test of crystal structure prediction: structure generation methods.*
+Acta Cryst. B **80**, (2024).
+[link](http://doi.org/10.1107/S2052520624007492)
+
 1. N. T. P. Tu, S. Williamson, E. R. Johnson, and C. N. Rowley,
 *Modeling Intermolecular Interactions With XDM Dispersion Corrections
 to Neural Network Potentials.* J. Phys. Chem. B (2024).
@@ -20,7 +36,7 @@ D-glucose.* Org. Biomol. Chem. (2024).
 [link](http://doi.org/10.1039/D4OB01013B)
 
 1. G. M. Sparrow, R. A. Mayo, E. R. Johnson, *Matching ROY Crystal
-Structures to High-Throughput PXRD.* CrystEngComm (2024).
+Structures to High-Throughput PXRD.* CrystEngComm **26**, 5716-5725 (2024).
 [link](https://doi.org/10.1039/D4CE00700J)
 
 1. K. Panchagnula, D. Graf, E. R. Johnson, A. J. W. Thom, *Targeting
