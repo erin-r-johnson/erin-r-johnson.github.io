@@ -23,7 +23,12 @@ test of crystal structure prediction: structure generation methods.*
 Acta Cryst. B **80**, (2024).
 [link](http://doi.org/10.1107/S2052520624007492)
 
-1. N. T. P. Tu, S. Williamson, E. R. Johnson, and C. N. Rowley,
+1. P. L. Fox, J. Choi, E. R. Johnson, M. Stradiotto,
+*Mapping Electrophile Chemoselectivity in DalPhos/Nickel
+N-Arylation Catalysis: The Unusual Influence of Remote Sterics.*
+Chem. Eur. J. (2024). [link](http://doi.org/10.1002/chem.202402391)
+
+1. N. T. P. Tu, S. Williamson, E. R. Johnson, C. N. Rowley,
 *Modeling Intermolecular Interactions With XDM Dispersion Corrections
 to Neural Network Potentials.* J. Phys. Chem. B (2024).
 [link](http://doi.org/10.1021/acs.jpcb.4c02882)
