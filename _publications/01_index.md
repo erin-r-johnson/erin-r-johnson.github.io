@@ -10,34 +10,34 @@ search: true
 1. R. A. Mayo, A. J. A. Price, A. Otero-de-la-Roza, E. R. Johnson,
 *Assessment of the exchange-hole dipole moment dispersion correction for the
 energy ranking stage of the seventh crystal structure prediction blind
-test.* Acta Cryst. B **80**, (2024).
+test.* Acta Cryst. B **80**, 595-605 (2024).
 [link](http://doi.org/10.1107/S2052520624002774)
 
 1. L. M. Hunnisett, N. Francia, J. Nyman, *et al.* *The seventh blind
 test of crystal structure prediction: structure ranking methods.*
-Acta Cryst. B **80**, (2024).
+Acta Cryst. B **80**, 548-574 (2024).
 [link](http://doi.org/10.1107/S2052520624008679)
 
 1. L. M. Hunnisett, J. Nyman, N. Francia, *et al.* *The seventh blind
 test of crystal structure prediction: structure generation methods.*
-Acta Cryst. B **80**, (2024).
+Acta Cryst. B **80**, 517-547 (2024).
 [link](http://doi.org/10.1107/S2052520624007492)
 
 1. P. L. Fox, J. Choi, E. R. Johnson, M. Stradiotto,
 *Mapping Electrophile Chemoselectivity in DalPhos/Nickel
 N-Arylation Catalysis: The Unusual Influence of Remote Sterics.*
-Chem. Eur. J. (2024). [link](http://doi.org/10.1002/chem.202402391)
+Chem. Eur. J. **30**, e202402391 (2024). [link](http://doi.org/10.1002/chem.202402391)
 
 1. N. T. P. Tu, S. Williamson, E. R. Johnson, C. N. Rowley,
 *Modeling Intermolecular Interactions With XDM Dispersion Corrections
-to Neural Network Potentials.* J. Phys. Chem. B (2024).
+to Neural Network Potentials.* J. Phys. Chem. B **128**, 8290–8302 (2024).
 [link](http://doi.org/10.1021/acs.jpcb.4c02882)
 
 1. A. Alkas, J. M. Kofsky, E. C. Sullivan, D. Nebel, K. N. Robertson,
 C. J. Capicciotti, D. L. Jakeman, E. R. Johnson, A. Thompson,
 *BODIPYs alpha-appended with distyryl-linked aryl bisboronic acids:
 single-step cell staining and turn-on fluorescence binding with
-D-glucose.* Org. Biomol. Chem. (2024).
+D-glucose.* Org. Biomol. Chem. **22**, 7448-7459 (2024).
 [link](http://doi.org/10.1039/D4OB01013B)
 
 1. G. M. Sparrow, R. A. Mayo, E. R. Johnson, *Matching ROY Crystal
@@ -58,13 +58,13 @@ on CO<sub>2</sub> Reduction.* ACS Central Sci. **10**, 1251-1261 (2024).
 Metal/MoS<sub>2</sub> Contacts through Electrene Insertion.* Phys. Chem. Chem.
 Phys. **26**, 16947-16954 (2024). [link](https://doi.org/10.1039/D3CP06112D)
 
-    **2023**
-
 1. K. M. Morrison, N. J. Roberts, S. L. Dudra, J. P. Tassone, M. J.
 Ferguson, E. R. Johnson, M. Stradiotto, *Nickel-Catalyzed O-Arylation
 of Primary or Secondary Aliphatic Alcohols with (Hetero) aryl
 Chlorides: A Comparison of Ni (I) and Ni (II) Precatalysts.* J. Org.
-Chem. (2023). [link](https://doi.org/10.1021/acs.joc.3c01584)
+Chem. **89**, 16126–16133 (2024). [link](https://doi.org/10.1021/acs.joc.3c01584)
+
+    **2023**
 
 1. A. F. Rumson, E. R. Johnson, *Low Thermal Expansion of Layered
 Electrides Predicted by DFT* J. Chem. Phys. **159**, 174701 (2023).
