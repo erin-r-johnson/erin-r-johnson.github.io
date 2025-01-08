@@ -31,7 +31,7 @@ Notes: [chem6353-notes.pdf](/downloads/chem6353-notes-short.pdf)
 
 **Bonus Content**
 
-An *opinionated* introduction to density-functional theory for experimentalists:
+An *opinionated* introduction to density-functional theory:
 [dftguide.pdf](/downloads/dftguide.pdf)
 
 Book Chapter: E. R. Johnson, *The Exchange-Hole Dipole Moment Dispersion Model.* In: *Non-Covalent Interactions in Quantum Chemistry and Physics,* A. Otero de la Roza and G. DiLabio eds. (Elsevier, 2017) Ch. 5, pp. 169-194. [link](https://doi.org/10.1016/B978-0-12-809835-6.00006-2)
