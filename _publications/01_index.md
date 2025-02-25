@@ -7,6 +7,13 @@ excerpt: >-
 search: true
 ---
 
+1. A. F. Rumson, M. Rafiee Diznab, J. Maassen, E. R. Johnson,
+*The role of the metal in metal/MoS<sub>2</sub> and
+metal/Ca<sub>2</sub>N/MoS<sub>2</sub> interfaces.* Phys. Chem. Chem.
+Phys. (2025). [link](https://doi.org/10.1039/D4CP04577G)
+
+    **2024**
+
 1. R. A. Mayo, A. J. A. Price, A. Otero-de-la-Roza, E. R. Johnson,
 *Assessment of the exchange-hole dipole moment dispersion correction for the
 energy ranking stage of the seventh crystal structure prediction blind

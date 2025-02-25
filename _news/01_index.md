@@ -7,6 +7,7 @@ excerpt: >-
 search: true
 ---
 
+* Congratulations to Alex Mayo, who started a new job as a Business Development Manager at [XtalPi](https://en.xtalpi.com/)
 * Congratulations to Mohammad Rafiee Diznab, who was awarded one of the top 10 best student presenter awards at TECHCON 2024.
 * Congratulations to Kyle Bryenton, who was awarded the best contributed talk at the 30th Canadian Symposium on Theoretical and Computational Chemistry (CSTCC) in Halifax.
 * Congratulations to Kyle Bryenton, who was awarded the 2024 Mary Margeret Werner Graduate Scholarship.
