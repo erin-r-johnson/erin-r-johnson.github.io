@@ -22,6 +22,7 @@ Chemistry:
 * Adrian Rumson
 * Grace Sparrow
 * Laura Rizzo
+* Sam Petrov
 
 Physics:
 * Kyle Bryenton
