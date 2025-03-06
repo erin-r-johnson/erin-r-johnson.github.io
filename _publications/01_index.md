@@ -6,6 +6,7 @@ excerpt: >-
   List of publications.
 search: true
 ---
+    **2025**
 
 1. A. F. Rumson, M. Rafiee Diznab, J. Maassen, E. R. Johnson,
 *The role of the metal in metal/MoS<sub>2</sub> and
