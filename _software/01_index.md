@@ -36,6 +36,9 @@ plotting overlays of simulated and experimental PXRD patterns.
 Reference data for selected benchmark sets can be found here: [**refdata**](https://aoterodelaroza.github.io/refdata/)
 
 
+GMTKN55 inputs for use with FHI-aims can be found here: [**gmtkn55-fhiaims**](https://github.com/erin-r-johnson/gmtkn55-fhiaims)
+
+
 XDM damping parameters for use with selected electronic structure packages can be found in the **postg** distribution. A subset of these is shown here:
 
 **Quantum ESPRESSO**

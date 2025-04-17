@@ -21,4 +21,5 @@ Halifax, Nova Scotia, Canada B3H 4R2
   * [Department of Physics and Atmospheric Science](https://physics.dal.ca)
   * [Erin's Google Scholar Page](https://scholar.google.ca/citations?user=57ER3oQAAAAJ&hl=en)
   * [Erin's Academic Tree](https://academictree.org/chemistry/tree.php?pid=796420)
+  * [Erin's DalSpace](https://hdl.handle.net/10222/75136) for a collection of papers
 
