@@ -23,6 +23,7 @@ Chemistry:
 * Grace Sparrow
 * Laura Rizzo
 * Sam Petrov
+* Lindsay Hurshman (co-supervised with Carlie Charron)
 
 Physics:
 * Kyle Bryenton
