@@ -7,6 +7,11 @@ excerpt: >-
 search: true
 ---
 
+1. C. J. Nickerson, E. R. Johnson, *Assessment of a Foundational
+Machine-Learned Potential for Energy Ranking of Molecular Crystal
+Polymorphs.* Phys. Chem. Chem. Phys. (2025).
+[link](https://doi.org/10.1039/D5CP00593K)
+
 1. A. F. Rumson, M. Rafiee Diznab, J. Maassen, E. R. Johnson,
 *The role of the metal in metal/MoS<sub>2</sub> and
 metal/Ca<sub>2</sub>N/MoS<sub>2</sub> interfaces.* Phys. Chem. Chem.
