@@ -24,6 +24,7 @@ Chemistry:
 * Laura Rizzo
 * Sam Petrov
 * Lindsay Hurshman (co-supervised with Carlie Charron)
+* Mike Cotnam (co-supervised with Mark Stradiotto)
 
 Physics:
 * Kyle Bryenton
