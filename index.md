@@ -5,7 +5,7 @@ title: "Home"
 intro:
   - excerpt: ""
 row_all:
-  - image_path: images/group-photo-2022.jpg
+  - image_path: images/photo2025b.jpg
     alt: "Group"
     title: "Group"
     excerpt: >-
