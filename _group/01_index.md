@@ -8,9 +8,10 @@ search: true
 ---
 
 <figure style="width: 75%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/photo2025a.jpg"
-src="{{ site.url }}{{ site.baseurl }}/images/photo2025b.jpg"
-alt="The group, summer 2025">
+  - src="{{ site.url }}{{ site.baseurl }}/images/photo2025a.jpg"
+    alt="The group, fall 2025, take 1"
+  - src="{{ site.url }}{{ site.baseurl }}/images/photo2025b.jpg"
+    alt="The group, fall 2025, take 2"
   <figcaption style="text-align: center"> The group, fall 2025. Left
 photo: Adrian, Grace, Mike, Erin, Cameron, Kyle; right photo: Adrian,
 Sam, Grace, Erin, Cameron, Kyle.</figcaption>
