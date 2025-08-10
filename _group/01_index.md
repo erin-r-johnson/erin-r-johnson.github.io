@@ -7,18 +7,19 @@ excerpt: >-
 search: true
 ---
 
-<figure style="width: 45%" class="align-left">
+<figure style="width: 50%" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/photo2025a.jpg"
 alt="The group, fall 2025, take 1">
-  <figcaption style="text-align: center"> The group, fall 2025. Left to
+  <figcaption style="text-align: center"> The group, fall 2025, take 1. Left to
 right: Adrian, Grace, Mike, Erin, Cameron, Kyle.</figcaption>
 </figure>
-<figure style="width: 45%" class="align-right">
+<figure style="width: 50%" class="align-right">
 <img src="{{ site.url }}{{ site.baseurl }}/images/photo2025b.jpg"
     alt="The group, fall 2025, take 2">
-  <figcaption style="text-align: center"> The group, fall 2025. Left to
+  <figcaption style="text-align: center"> The group, fall 2025, take 2. Left to
 right: Adrian, Sam, Grace, Erin, Cameron, Kyle.</figcaption>
 </figure>
+
 
 Prof. [Erin R. Johnson](https://erin-r-johnson.github.io/contact/)
 
