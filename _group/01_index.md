@@ -29,11 +29,9 @@ Chemistry:
 * Grace Sparrow
 * Laura Rizzo
 * Sam Petrov
-* Lindsay Hurshman (co-supervised with Carlie Charron)
 * Mike Cotnam (co-supervised with Mark Stradiotto)
 
 Physics:
-* Kyle Bryenton
 * Cameron Nickerson
 * Mohammad Rafiee Diznab (co-supervised with Jesse Maassen)
 
@@ -46,6 +44,7 @@ Post-docs:
 * Alberto Otero-de-la-Roza (PDF, 2011-2013)
 
 Graduate students:
+* Kyle Bryenton (PhD, 2025)
 * Alex Mayo (PhD, 2023)
 * Alastair Price (PhD, 2023)
 * Sarah Clarke (MSc, 2023)
