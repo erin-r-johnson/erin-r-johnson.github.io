@@ -7,6 +7,11 @@ excerpt: >-
 search: true
 ---
 
+1. A. S. Pickett, J. W. Campbell, K. M. Cox, Z. A. Bello,
+E. R. Johnson, C. L. Charron, *Silver(I)-mediated oxazoline
+formation: A mild route to 2,4-oxazoles in peptides.* Chem. Sci.
+(2025). [link](https://doi.org/10.1039/D5SC06351E)
+
 1. C. J. Nickerson, E. R. Johnson, *Assessment of a Foundational
 Machine-Learned Potential for Energy Ranking of Molecular Crystal
 Polymorphs.* Phys. Chem. Chem. Phys. **27**, 11930-11940 (2025).
