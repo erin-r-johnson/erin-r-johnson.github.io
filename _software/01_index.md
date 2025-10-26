@@ -32,6 +32,9 @@ plotting overlays of simulated and experimental PXRD patterns.
 
 [**bicrystal**](https://tilaskabengele.github.io/BiCrystal/) -- Use this to build incommensurate structures of layered materials.
 
+**Colour-blind resources**
+* colour-blind [simulator](https://pilestone.com/pages/color-blindness-simulator)
+* colour-blind friendly [palettes](https://github.com/KyleBryenton/Dalhousie-Beamer-Theme/blob/main/ColourBlindSwatches.txt)
 
 Reference data for selected benchmark sets can be found here: [**refdata**](https://aoterodelaroza.github.io/refdata/)
 
