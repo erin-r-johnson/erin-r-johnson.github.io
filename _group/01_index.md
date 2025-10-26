@@ -20,8 +20,6 @@ Sam, Grace, Erin, Cameron, Kyle.</figcaption>
 
 Prof. [Erin R. Johnson](https://erin-r-johnson.github.io/contact/)
 
-Emeritus Prof. Axel D. Becke
-
 Current Group
 
 Chemistry:
