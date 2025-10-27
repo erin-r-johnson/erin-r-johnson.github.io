@@ -17,7 +17,7 @@ drude oscillators.* J. Chem. Phys. **163**, 151001 (2025).
 1. T. George, E. R. Johnson, J. D. Masuda, *Trapping carbon suboxide
 with a carbene and isolation of the carbene-stabilized carbon
 suboxide dimer.* Chem. Sci. (2025).
-[link](https://https://doi.org/10.1039/D5SC06444A)
+[link](https://doi.org/10.1039/D5SC06444A)
 
 1. A. S. Pickett, J. W. Campbell, K. M. Cox, Z. A. Bello,
 E. R. Johnson, C. L. Charron, *Silver(I)-mediated oxazoline
