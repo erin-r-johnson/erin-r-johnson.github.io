@@ -7,12 +7,22 @@ excerpt: >-
 search: true
 ---
 
+1. K. R. Bryenton, E. R. Johnson, *WTMAD-4: A Fair Weighting Scheme for
+GMTKN55.* Phys. Chem. Chem. Phys. (2025).
+[link](https://doi.org/10.1039/D5CP03741G)
+
 1. A. Khabibrakhmanov, D. V. Fedorov, A. Ambrosetti, J. Crain, K. L. C.
 Hunt, E. R. Johnson, K. D. Jordan, S. Góger, M. Gori, M. Reza
 Karimpour, R. J. Maurer, M. Sadhukhan, M. Stöhr, A. Tkatchenko, 
 *Accurate noncovalent interactions in atomistic systems via quantum
 drude oscillators.* J. Chem. Phys. **163**, 151001 (2025).
 [link](https://doi.org/10.1063/5.0281913)
+
+1. R. L. Gapare, R. M. Diaz-Rodriguez, V. A. Williams, M. Atwood, M. J.
+Cotnam, J. W. Hilborn, E. R. Johnson, K. N. Robertson, A. Thompson,
+*Reactivity of an aza-dipyrrin and an aza-BODIPY motif bearing two
+2-pyridyl units: an emissive NNN binding pocket.* J. Org. Biomol. Chem.
+**23**, 10391-10397 (2025). [link](https://doi.org/10.1039/D5OB01628B)
 
 1. T. George, E. R. Johnson, J. D. Masuda, *Trapping carbon suboxide
 with a carbene and isolation of the carbene-stabilized carbon
@@ -22,7 +32,7 @@ suboxide dimer.* Chem. Sci. (2025).
 1. A. S. Pickett, J. W. Campbell, K. M. Cox, Z. A. Bello,
 E. R. Johnson, C. L. Charron, *Silver(I)-mediated oxazoline
 formation: A mild route to 2,4-oxazoles in peptides.* Chem. Sci.
-(2025). [link](https://doi.org/10.1039/D5SC06351E)
+**16**, 20457-20463 (2025). [link](https://doi.org/10.1039/D5SC06351E)
 
 1. C. J. Nickerson, E. R. Johnson, *Assessment of a Foundational
 Machine-Learned Potential for Energy Ranking of Molecular Crystal
