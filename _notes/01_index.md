@@ -36,3 +36,7 @@ An *opinionated* introduction to density-functional theory:
 
 Book Chapter: E. R. Johnson, *The Exchange-Hole Dipole Moment Dispersion Model.* In: *Non-Covalent Interactions in Quantum Chemistry and Physics,* A. Otero de la Roza and G. DiLabio eds. (Elsevier, 2017) Ch. 5, pp. 169-194. [link](https://doi.org/10.1016/B978-0-12-809835-6.00006-2)
 
+Book Chapter: R. A. Mayo, E. R. Johnson, *Quantitative crystal
+structure comparison.* In: *Advances in Organic Crystal Chemistry,* S.
+Kobatake and H. Uekusa eds. (Springer Nature, 2025) Ch. 9, pp. 195–236. 
+[link](https://link.springer.com/chapter/10.1007/978-981-96-5984-5_9)
