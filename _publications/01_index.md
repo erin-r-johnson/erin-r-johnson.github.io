@@ -8,8 +8,10 @@ search: true
 ---
 
 1. K. R. Bryenton, E. R. Johnson, *WTMAD-4: A Fair Weighting Scheme for
-GMTKN55.* Phys. Chem. Chem. Phys. (2025).
+GMTKN55.* Phys. Chem. Chem. Phys. **28**, 1463-1469 (2026).
 [link](https://doi.org/10.1039/D5CP03741G)
+
+    **2025**
 
 1. A. Khabibrakhmanov, D. V. Fedorov, A. Ambrosetti, J. Crain, K. L. C.
 Hunt, E. R. Johnson, K. D. Jordan, S. Góger, M. Gori, M. Reza

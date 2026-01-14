@@ -30,6 +30,7 @@ Chemistry:
 * Mike Cotnam (co-supervised with Mark Stradiotto)
 
 Physics:
+* Kyle Bryenton
 * Cameron Nickerson
 * Mohammad Rafiee Diznab (co-supervised with Jesse Maassen)
 
