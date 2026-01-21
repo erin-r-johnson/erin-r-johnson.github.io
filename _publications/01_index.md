@@ -7,6 +7,13 @@ excerpt: >-
 search: true
 ---
 
+1.  K.-H. Hwang, D. Brandt, S. Cristofaro, C. J. Nickerson, F. Modesti,
+M. Gicevičius, M. T. R. Cervantes, M. Volpi, L. J. Spalek, L. Muccioli,
+P. M. Claesson, L. Fruk, Y. Geerts, G. Schweicher, Y. Olivier, E. R.
+Johnson, D. Venkateshvaran, *Measuring the molecular origins of
+stiffness in organic semiconductors.* Nat. Comm. (2026).
+[link](https://doi.org/10.1038/s41467-026-68328-0)
+
 1. K. R. Bryenton, E. R. Johnson, *WTMAD-4: A Fair Weighting Scheme for
 GMTKN55.* Phys. Chem. Chem. Phys. **28**, 1463-1469 (2026).
 [link](https://doi.org/10.1039/D5CP03741G)
@@ -28,7 +35,7 @@ Cotnam, J. W. Hilborn, E. R. Johnson, K. N. Robertson, A. Thompson,
 
 1. T. George, E. R. Johnson, J. D. Masuda, *Trapping carbon suboxide
 with a carbene and isolation of the carbene-stabilized carbon
-suboxide dimer.* Chem. Sci. (2025).
+suboxide dimer.* Chem. Sci. **16**, 23292-23298 (2025). 
 [link](https://doi.org/10.1039/D5SC06444A)
 
 1. A. S. Pickett, J. W. Campbell, K. M. Cox, Z. A. Bello,
