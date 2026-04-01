@@ -7,6 +7,11 @@ excerpt: >-
 search: true
 ---
 
+1. C. J. Nickerson, E. R. Johnson, *Einstein-Debye Model for
+Density-Functional Prediction of Vibrational Free Energies of Molecular
+Crystals.* Phys. Chem. Chem. Phys. (2026).
+[link](https://doi.org/10.1039/D6CP00089D)
+
 1.  K.-H. Hwang, D. Brandt, S. Cristofaro, C. J. Nickerson, F. Modesti,
 M. Gicevičius, M. T. R. Cervantes, M. Volpi, L. J. Spalek, L. Muccioli,
 P. M. Claesson, L. Fruk, Y. Geerts, G. Schweicher, Y. Olivier, E. R.
