@@ -26,13 +26,11 @@ Chemistry:
 * Adrian Rumson
 * Grace Sparrow
 * Laura Rizzo
-* Sam Petrov
 * Mike Cotnam (co-supervised with Mark Stradiotto)
 
 Physics:
 * Kyle Bryenton
 * Cameron Nickerson
-* Mohammad Rafiee Diznab (co-supervised with Jesse Maassen)
 
 Group Alumni
 
@@ -43,6 +41,7 @@ Post-docs:
 * Alberto Otero-de-la-Roza (PDF, 2011-2013)
 
 Graduate students:
+* Mohammad Rafiee Diznab (PhD, 2026, co-supervised with Jesse Maassen)
 * Kyle Bryenton (PhD, 2025)
 * Alex Mayo (PhD, 2023)
 * Alastair Price (PhD, 2023)
@@ -57,6 +56,7 @@ Graduate students:
 * Joseph Dizon (MSc, 2014)
 
 Undergraduate students:
+* Sam Petrov (2026)
 * Nick Roberts (2023)
 * Grace Sparrow (2022)
 * Adrian Rumson (2022)

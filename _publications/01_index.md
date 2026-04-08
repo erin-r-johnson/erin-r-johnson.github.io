@@ -16,7 +16,7 @@ Crystals.* Phys. Chem. Chem. Phys. (2026).
 M. Gicevičius, M. T. R. Cervantes, M. Volpi, L. J. Spalek, L. Muccioli,
 P. M. Claesson, L. Fruk, Y. Geerts, G. Schweicher, Y. Olivier, E. R.
 Johnson, D. Venkateshvaran, *Measuring the molecular origins of
-stiffness in organic semiconductors.* Nat. Comm. (2026).
+stiffness in organic semiconductors.* Nat. Comm. **17**, 1621 (2026).
 [link](https://doi.org/10.1038/s41467-026-68328-0)
 
 1. K. R. Bryenton, E. R. Johnson, *WTMAD-4: A Fair Weighting Scheme for
