@@ -7,6 +7,11 @@ excerpt: >-
 search: true
 ---
 
+1. K. R. Bryenton, E. R. Johnson, *Consistent GMTKN55 and
+molecular-crystal accuracy using minimally empirical DFT with XDM(Z)
+dispersion.* Phys. Chem. Chem. Phys. (2026).
+[link](https://doi.org/10.1039/D6CP00403B)
+
 1. C. J. Nickerson, E. R. Johnson, *Einstein-Debye Model for
 Density-Functional Prediction of Vibrational Free Energies of Molecular
 Crystals.* Phys. Chem. Chem. Phys. (2026).
