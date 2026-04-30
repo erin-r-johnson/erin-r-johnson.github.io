@@ -14,7 +14,7 @@ dispersion.* Phys. Chem. Chem. Phys. (2026).
 
 1. C. J. Nickerson, E. R. Johnson, *Einstein-Debye Model for
 Density-Functional Prediction of Vibrational Free Energies of Molecular
-Crystals.* Phys. Chem. Chem. Phys. (2026).
+Crystals.* Phys. Chem. Chem. Phys. **28**, 10043-10054 (2026).
 [link](https://doi.org/10.1039/D6CP00089D)
 
 1.  K.-H. Hwang, D. Brandt, S. Cristofaro, C. J. Nickerson, F. Modesti,

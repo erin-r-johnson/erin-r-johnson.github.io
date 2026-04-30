@@ -27,6 +27,7 @@ Chemistry:
 * Grace Sparrow
 * Laura Rizzo
 * Mike Cotnam (co-supervised with Mark Stradiotto)
+* Miko Crouse
 
 Physics:
 * Kyle Bryenton
@@ -47,7 +48,7 @@ Graduate students:
 * Alastair Price (PhD, 2023)
 * Sarah Clarke (MSc, 2023)
 * Joseph Weatherby (MSc, 2022)
-* Fouad Kaadou (MSc, 2022)
+* Fouad Kaadou (MSc, 2022, co-supervised with Jesse Maassen)
 * Xibo "Fred" Feng (PhD, 2021)
 * Tilas Kabengele (MSc, 2021)
 * Luc LeBlanc (PhD, 2019)
