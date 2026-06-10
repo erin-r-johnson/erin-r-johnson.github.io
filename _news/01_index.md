@@ -7,6 +7,7 @@ excerpt: >-
 search: true
 ---
 
+* Congratulations to Cameron Nickerson, who was awarded the 2026 William Leiper Memorial Scholarship in Physics.
 * Congratulations to Mohammad Rafiee Diznab, who successfully defended his PhD thesis.
 * Congratulations to Kyle Bryenton, who successfully defended his PhD thesis.
 * Our book chapter on Quantitative Crystal Structure Comparison is published online [here](https://link.springer.com/chapter/10.1007/978-981-96-5984-5_9)

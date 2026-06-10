@@ -9,8 +9,8 @@ search: true
 
 1. A. F. Rumson, K. R. Bryenton, E. R. Johnson, *The effects of
 dispersion damping and three-body interactions for accurate
-layered-material exfoliation energies* Phys. Chem. Chem. Phys. (2026).
-[link](https://doi.org/10.1039/D6CP01304J)
+layered-material exfoliation energies.* Phys. Chem. Chem. Phys. 
+**28**, 13543-13552 (2026). [link](https://doi.org/10.1039/D6CP01304J)
 
 1. K. R. Bryenton, E. R. Johnson, *Consistent GMTKN55 and
 molecular-crystal accuracy using minimally empirical DFT with XDM(Z)
