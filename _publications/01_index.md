@@ -7,6 +7,10 @@ excerpt: >-
 search: true
 ---
 
+1. J. van de Streek, E. R. Johnson, *Best practices in `0 K' DFT energy
+calculations on molecular crystal structures.* Acta Cryst. C **82**
+(2026). [link](https://doi.org/10.1107/S2053229626006169)
+
 1. A. F. Rumson, K. R. Bryenton, E. R. Johnson, *The effects of
 dispersion damping and three-body interactions for accurate
 layered-material exfoliation energies.* Phys. Chem. Chem. Phys. 
