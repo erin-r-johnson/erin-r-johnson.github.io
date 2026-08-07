@@ -7,6 +7,7 @@ excerpt: >-
 search: true
 ---
 
+* Congratulations to Kyle Bryenton, who was awarded the best contributed talk at the 31st Canadian Symposium on Theoretical and Computational Chemistry (CSTCC) in Ottawa.
 * Congratulations to Cameron Nickerson, who was awarded the 2026 William Leiper Memorial Scholarship in Physics.
 * Congratulations to Mohammad Rafiee Diznab, who successfully defended his PhD thesis.
 * Congratulations to Kyle Bryenton, who successfully defended his PhD thesis.
