@@ -7,6 +7,11 @@ excerpt: >-
 search: true
 ---
 
+1. J.-L. Kobti, J. Murphy, A. Dmitrienko, B.-A. Fifield, L. Porter, E. R. Johnson, V. N. Vukotic,
+*Accelerated discovery of Zn(II) therapeutic coordination polymers
+(TCPs) for controlled drug release.* ACS Appl. Mater. Interfaces (2026). 
+[link](https://doi.org/10.1021/acsami.6c16421)
+
 1. J. van de Streek, E. R. Johnson, *Best practices in `0 K' DFT energy
 calculations on molecular crystal structures.* Acta Cryst. C **82**
 (2026). [link](https://doi.org/10.1107/S2053229626006169)
