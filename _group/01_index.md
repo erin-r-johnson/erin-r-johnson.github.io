@@ -7,12 +7,6 @@ excerpt: >-
 search: true
 ---
 
-<figure style="width: 75%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/group2026.jpg" alt="The group, summer 2026">
-  <figcaption style="text-align: center"> The group, summer 2026. Left to right: Adrian, Laura, Kyle, Erin, Grace, Cameron.</figcaption>
-</figure>
-
-
 Prof. [Erin R. Johnson](https://erin-r-johnson.github.io/contact/)
 
 Current Group
@@ -64,16 +58,6 @@ Undergraduate students:
 * Mike Murray (2017)
 * Robert Bailey (2014)
 * Joel Mallory (2013)
-
-<figure style="width: 75%" class="half">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/photo2025a.jpg"
-alt="The group, fall 2025, take 1">
-<img src="{{ site.url }}{{ site.baseurl }}/images/photo2025b.jpg"
-    alt="The group, fall 2025, take 2">
-  <figcaption style="text-align: center"> The group, fall 2025. Left
-image: Adrian, Grace, Mike, Erin, Cameron, Kyle; right image: Adrian,
-Sam, Grace, Erin, Cameron, Kyle.</figcaption>
-</figure>
 
 <figure style="width: 75%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/group-2023.png" alt="The group, fall 2023">
