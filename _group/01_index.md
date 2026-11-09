@@ -7,6 +7,11 @@ excerpt: >-
 search: true
 ---
 
+<figure style="width: 75%" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/group2026.jpg" alt="The group, summer 2026">
+  <figcaption style="text-align: center"> The group, summer 2026. Left to right: Adrian, Laura, Kyle, Erin, Grace, Cameron.</figcaption>
+</figure>
+
 Prof. [Erin R. Johnson](https://erin-r-johnson.github.io/contact/)
 
 Current Group
